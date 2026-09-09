@@ -430,16 +430,6 @@ En conclusión, el uso adecuado de los datos puede ayudar a que una empresa tome
 
 ---
 
-# 👨‍💻 Autor
-
-**Nombre:** [Escribe aquí tu nombre]
-
-**Curso:** [Escribe aquí el nombre del curso]
-
-**Actividad:** Analítica de Datos
-
-**Fecha:** Septiembre de 2026
-
 ---
 
 # 📚 Resumen de la actividad
