@@ -1,0 +1,16 @@
+-- Semana 14 | TRANSPORTES MT
+-- Requiere tabla Ventas con Valor_Venta y Tipo_Servicio.
+
+-- Medida 1:
+Total Ventas = SUM(Ventas[Valor_Venta])
+
+-- Medida 2:
+% Participacion =
+DIVIDE(
+    [Total Ventas],
+    CALCULATE(
+        [Total Ventas],
+        REMOVEFILTERS(Ventas[Tipo_Servicio])
+    ),
+    0
+)
