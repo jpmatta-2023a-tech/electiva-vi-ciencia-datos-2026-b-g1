@@ -1,0 +1,1506 @@
+﻿id_servicio,fecha,ruta,tipo_servicio,agencia,distancia_km,retraso_min,ingreso_cop
+MT00001,25/05/2025,Neiva–Bogotá,Paquetería,Pitalito,380,28,2220239
+MT00002,21/12/2025,Neiva–Cartagena,Café,Garzón,710,0,4626398
+MT00003,28/05/2026,Neiva–Medellín,Carga seca,Neiva,460,0,2489774
+MT00004,24/09/2026,Neiva–Bogotá,Café,Neiva,380,0,2740102
+MT00005,28/11/2025,Neiva–Bogotá,Carga seca,Neiva,380,0,1855164
+MT00006,20/09/2026,Pitalito–Neiva,Paquetería,Neiva,130,0,587788
+MT00007,25/09/2026,Neiva–Bogotá,Café,Neiva,380,0,2296555
+MT00008,30/12/2025,Neiva–Medellín,Paquetería,Neiva,460,0,2495354
+MT00009,09/10/2026,Neiva–Bogotá,Paquetería,Neiva,380,0,2018027
+MT00010,15/02/2025,Neiva–Bogotá,Carga seca,Neiva,380,0,2443502
+MT00011,24/07/2026,Neiva–Medellín,Café,Neiva,460,0,2403498
+MT00012,24/09/2026,Pitalito–Neiva,Paquetería,Neiva,130,0,832820
+MT00013,2026-10-18,Neiva–Bogotá,Carga seca,Neiva,380,0,2236343
+MT00014,2026-07-28,Neiva–Bogotá,Café,Garzón,380,0,1871149
+MT00015,2025-05-25,Pitalito–Neiva,Paquetería,Pitalito,130,177,608732
+MT00016,2025-07-02,Neiva–Bogotá,Carga seca,Neiva,380,146,1876632
+MT00017,2026-02-03,Neiva–Medellín,Café,Neiva,460,0,2976626
+MT00018,2026-05-20,Pitalito–Neiva,Café,Neiva,130,85,928441
+MT00019,2025-05-28,Neiva–Medellín,Carga seca,Garzón,460,98,1989344
+MT00020,2026-10-10,Neiva–Medellín,Paquetería,Neiva,460,231,2348293
+MT00021,2025-02-17,Neiva–Bogotá,  café  ,Neiva,380,0,2195131
+MT00022,2026-07-25,Neiva–Bogotá,  café  ,Neiva,380,0,2076700
+MT00023,2026-08-06,Neiva–Cali,  café  ,Pitalito,310,0,1868298
+MT00024,2026-06-23,Neiva–Cali,  café  ,Garzón,310,0,1669301
+MT00025,2026-01-23,Neiva–Bogotá,  café  ,Neiva,380,0,2312396
+MT00026,2025-12-14,Neiva–Bogotá,  café  ,Neiva,380,0,1941982
+MT00027,2025-06-05,Neiva–Cartagena,  café  ,Neiva,710,0,4424467
+MT00028,2025-02-02,Neiva–Bogotá,  café  ,Garzón,380,0,1984374
+MT00029,2026-05-28,Neiva–Cali,  café  ,Neiva,310,0,1788029
+MT00030,2025-07-25,Neiva–Medellín,  café  ,Neiva,460,0,2147608
+MT00031,2025-10-26,Neiva–Bogotá,  café  ,Neiva,380,0,1635175
+MT00032,2025-04-22,Neiva–Cali,  café  ,Neiva,310,0,1610962
+MT00033,2026-06-13,Neiva–Medellín,  café  ,Pitalito,460,0,2746601
+MT00034,2026-03-14,Neiva–Cali,  café  ,Neiva,310,0,1468440
+MT00035,2026-10-11,Neiva–Medellín,  café  ,Neiva,460,0,2841377
+MT00036,2025-06-30,Pitalito–Neiva,  café  ,Pitalito,130,0,693250
+MT00037,2025-07-19,Neiva–Cali,  café  ,Pitalito,310,208,1387632
+MT00038,2025-11-30,Pitalito–Neiva,  café  ,Neiva,130,229,802519
+MT00039,2025-05-21,Neiva–Bogotá,  café  ,Garzón,380,173,1991532
+MT00040,2026-04-21,Pitalito–Neiva,  café  ,Neiva,130,169,814991
+MT00041,2026-01-14,Pitalito–Neiva,Café,neiva ,130,0,796792
+MT00042,2025-11-09,Neiva–Bogotá,Paquetería,neiva ,380,0,2139952
+MT00043,2025-07-30,Neiva–Medellín,Carga seca,neiva ,460,0,2874907
+MT00044,2025-03-17,Neiva–Cali,Café,neiva ,310,0,2109670
+MT00045,2025-08-28,Neiva–Medellín,Café,neiva ,460,126,3217255
+MT00046,2026-09-17,Neiva–Cali,Café,neiva ,310,0,2051460
+MT00047,2025-01-28,Pitalito–Neiva,Paquetería,neiva ,130,0,776198
+MT00048,2026-02-04,Neiva–Bogotá,Carga seca,neiva ,380,0,1818289
+MT00049,2026-09-24,Neiva–Bogotá,Carga seca,neiva ,380,0,2313468
+MT00050,2025-11-05,Pitalito–Neiva,Carga seca,neiva ,130,0,777695
+MT00051,2026-03-11,Neiva–Medellín,Carga seca,neiva ,460,193,2072858
+MT00052,2026-04-29,Neiva–Cali,Paquetería,neiva ,310,0,1587468
+MT00053,2026-08-12,Neiva–Cali,Café,neiva ,310,0,1844233
+MT00054,2025-03-28,Neiva–Medellín,Café,neiva ,460,0,2383934
+MT00055,2026-01-07,Neiva–Cali,Carga seca,neiva ,310,223,1939524
+MT00056,2025-07-22,Neiva–Medellín,Carga seca,neiva ,460,0,2088105
+MT00057,2025-10-07,Neiva–Cartagena,Paquetería,neiva ,710,0,3797385
+MT00058,2025-06-27,Neiva–Cali,Carga seca,neiva ,310,0,1724474
+MT00059,2025-07-11,Neiva–Cali,Café,neiva ,310,0,1679819
+MT00060,2025-09-16,Neiva–Bogotá,Café,neiva ,380,0,1914969
+MT00061,2026-08-15,Neiva–Cali,Café,Neiva,310,-25,1822890
+MT00062,2026-01-07,Neiva–Medellín,Paquetería,Neiva,460,-25,2833086
+MT00063,2026-08-13,Pitalito–Neiva,Café,Neiva,130,-25,918801
+MT00064,2026-01-03,Neiva–Bogotá,Carga seca,Neiva,380,-25,1976290
+MT00065,2026-03-07,Neiva–Bogotá,Carga seca,Garzón,380,-25,1779043
+MT00066,2026-06-16,Neiva–Cartagena,Carga seca,Neiva,710,-25,3426161
+MT00067,2026-07-12,Neiva–Bogotá,Café,Neiva,380,-25,2247000
+MT00068,2026-08-04,Neiva–Bogotá,Carga seca,Pitalito,380,-25,2160543
+MT00069,2026-05-03,Neiva–Bogotá,Carga seca,Neiva,380,-25,2273825
+MT00070,2025-01-04,Neiva–Bogotá,Carga seca,Neiva,380,-25,1927479
+MT00071,2026-01-07,Neiva–Cali,Café,Neiva,310,-25,1756756
+MT00072,2025-04-23,Neiva–Bogotá,Café,Neiva,380,-25,1963125
+MT00073,2025-08-27,Neiva–Cartagena,Carga seca,Neiva,710,-25,4004703
+MT00074,2026-09-16,Neiva–Bogotá,Café,Garzón,380,-25,2479896
+MT00075,2026-06-10,Neiva–Bogotá,Café,Neiva,380,-25,2503802
+MT00076,2025-03-11,Neiva–Medellín,,Neiva,460,129,2334825
+MT00077,2026-08-05,Pitalito–Neiva,,Neiva,130,0,693556
+MT00078,2025-05-19,Neiva–Bogotá,,Neiva,380,0,1847016
+MT00079,2025-02-27,Neiva–Medellín,,Neiva,460,0,2956330
+MT00080,2025-06-12,Neiva–Bogotá,,Neiva,380,0,2595281
+MT00081,2026-02-25,Pitalito–Neiva,,Neiva,130,0,754657
+MT00082,2026-02-19,Neiva–Bogotá,,Neiva,380,0,1897265
+MT00083,2026-04-11,Neiva–Cali,,Neiva,310,0,1979573
+MT00084,2025-03-01,Neiva–Medellín,,Neiva,460,79,2441032
+MT00085,2026-03-03,Pitalito–Neiva,,Neiva,130,0,879741
+MT00086,2025-09-04,Neiva–Bogotá,,Pitalito,380,0,2346350
+MT00087,2025-01-26,Neiva–Cali,,Neiva,310,0,1823319
+MT00088,2026-10-20,Pitalito–Neiva,,Neiva,130,0,872406
+MT00089,2026-08-14,Pitalito–Neiva,,Pitalito,130,0,680296
+MT00090,2026-02-22,Pitalito–Neiva,,Neiva,130,0,754897
+MT00091,2025-12-10,Neiva–Cali,Carga seca,Pitalito,310,0,1367786
+MT00092,2026-03-16,Neiva–Medellín,Café,Garzón,460,0,2924623
+MT00093,2025-04-26,Neiva–Cali,Paquetería,Neiva,310,0,2010635
+MT00094,2026-04-18,Neiva–Cali,Café,Neiva,310,0,1735076
+MT00095,2025-04-16,Neiva–Medellín,Paquetería,Neiva,460,0,2192708
+MT00096,2026-07-21,Pitalito–Neiva,Carga seca,Garzón,130,0,799149
+MT00097,2026-01-29,Pitalito–Neiva,Carga seca,Neiva,130,0,793693
+MT00098,2025-01-05,Neiva–Cali,Paquetería,Neiva,310,0,1740605
+MT00099,2026-03-04,Pitalito–Neiva,Café,Neiva,130,181,734969
+MT00100,2025-08-01,Neiva–Bogotá,Paquetería,Neiva,380,215,2083551
+MT00101,2025-02-19,Neiva–Cartagena,Paquetería,Garzón,710,0,3335584
+MT00102,2025-12-12,Neiva–Medellín,Café,Neiva,460,0,2958573
+MT00103,2026-10-28,Neiva–Bogotá,Café,Neiva,380,0,2516800
+MT00104,2025-12-24,Pitalito–Neiva,Carga seca,Neiva,130,0,672951
+MT00105,2025-03-16,Pitalito–Neiva,Carga seca,Neiva,130,0,704752
+MT00106,2026-01-10,Neiva–Cartagena,Carga seca,Neiva,710,0,4483669
+MT00107,2025-02-24,Neiva–Medellín,Carga seca,Neiva,460,0,2472701
+MT00108,2026-05-10,Neiva–Bogotá,Café,Garzón,380,0,2342085
+MT00109,2025-03-13,Pitalito–Neiva,Carga seca,Neiva,130,0,802145
+MT00110,2026-04-06,Neiva–Cartagena,Carga seca,Neiva,710,0,4546765
+MT00111,2025-01-13,Neiva–Bogotá,Café,Neiva,380,0,2016684
+MT00112,2025-01-28,Neiva–Bogotá,Café,Neiva,380,0,2606487
+MT00113,2025-10-30,Neiva–Cali,Carga seca,Pitalito,310,0,1531341
+MT00114,2026-01-24,Pitalito–Neiva,Carga seca,Pitalito,130,64,765012
+MT00115,2026-04-08,Pitalito–Neiva,Café,Neiva,130,0,891492
+MT00116,2026-04-22,Pitalito–Neiva,Carga seca,Neiva,130,143,772173
+MT00117,2026-08-25,Neiva–Medellín,Café,Neiva,460,0,2900801
+MT00118,2025-08-17,Neiva–Bogotá,Café,Neiva,380,0,2232919
+MT00119,2025-12-02,Neiva–Bogotá,Carga seca,Neiva,380,0,2040640
+MT00120,2025-01-08,Neiva–Medellín,Paquetería,Pitalito,460,107,2630121
+MT00121,2026-07-09,Pitalito–Neiva,Paquetería,Neiva,130,0,839184
+MT00122,2025-06-24,Neiva–Medellín,Carga seca,Neiva,460,44,2247828
+MT00123,2025-07-12,Neiva–Cali,Paquetería,Pitalito,310,0,1378438
+MT00124,2025-07-13,Neiva–Medellín,Café,Pitalito,460,0,2472528
+MT00125,2025-02-18,Neiva–Bogotá,Café,Neiva,380,0,2105422
+MT00126,2026-06-02,Neiva–Cali,Carga seca,Neiva,310,147,1655133
+MT00127,2025-12-30,Neiva–Cartagena,Café,Neiva,710,74,4633910
+MT00128,2025-02-07,Pitalito–Neiva,Café,Pitalito,130,0,893721
+MT00129,2025-10-30,Neiva–Bogotá,Café,Neiva,380,86,2400231
+MT00130,2026-03-27,Neiva–Bogotá,Carga seca,Neiva,380,0,2170998
+MT00131,2025-11-21,Neiva–Cali,Carga seca,Neiva,310,0,1942762
+MT00132,2025-03-07,Neiva–Medellín,Carga seca,Neiva,460,0,2034408
+MT00133,2025-07-18,Neiva–Bogotá,Café,Garzón,380,0,2593309
+MT00134,2026-01-11,Neiva–Cali,Café,Neiva,310,0,1764366
+MT00135,2025-07-21,Neiva–Medellín,Paquetería,Neiva,460,0,2440423
+MT00136,2025-03-31,Neiva–Medellín,Café,Neiva,460,174,3052533
+MT00137,2026-11-01,Neiva–Bogotá,Carga seca,Garzón,380,0,1807550
+MT00138,2025-07-19,Pitalito–Neiva,Café,Pitalito,130,0,697014
+MT00139,2025-11-21,Neiva–Cali,Carga seca,Pitalito,310,101,1464190
+MT00140,2025-09-10,Neiva–Cali,Carga seca,Neiva,310,0,1615122
+MT00141,2025-01-15,Neiva–Cartagena,Carga seca,Garzón,710,0,4469501
+MT00142,2025-12-28,Pitalito–Neiva,Café,Neiva,130,228,679880
+MT00143,2026-08-17,Neiva–Bogotá,Carga seca,Pitalito,380,0,2336274
+MT00144,2025-03-20,Neiva–Medellín,Carga seca,Neiva,460,129,2106264
+MT00145,2025-11-21,Neiva–Medellín,Café,Pitalito,460,83,2339089
+MT00146,2025-11-08,Pitalito–Neiva,Carga seca,Neiva,130,0,822667
+MT00147,2025-03-13,Neiva–Cali,Café,Neiva,310,175,1497179
+MT00148,2026-09-03,Pitalito–Neiva,Carga seca,Neiva,130,0,843185
+MT00149,2026-09-05,Neiva–Cartagena,Café,Neiva,710,77,4723412
+MT00150,2026-06-20,Neiva–Bogotá,Carga seca,Neiva,380,0,1684371
+MT00151,2025-11-29,Pitalito–Neiva,Café,Neiva,130,0,641156
+MT00152,2025-06-30,Neiva–Cartagena,Carga seca,Neiva,710,218,4031303
+MT00153,2025-03-24,Neiva–Bogotá,Carga seca,Neiva,380,0,1843492
+MT00154,2025-08-31,Neiva–Cali,Carga seca,Pitalito,310,0,1792155
+MT00155,2026-07-31,Neiva–Cali,Café,Neiva,310,0,1839729
+MT00156,2025-09-07,Neiva–Medellín,Carga seca,Neiva,460,0,2099693
+MT00157,2025-05-01,Neiva–Cali,Café,Neiva,310,0,1921819
+MT00158,2025-10-16,Neiva–Cali,Carga seca,Garzón,310,0,1524268
+MT00159,2025-09-26,Neiva–Cartagena,Carga seca,Pitalito,710,59,3644581
+MT00160,2025-02-05,Neiva–Cali,Paquetería,Neiva,310,0,1564057
+MT00161,2025-06-30,Neiva–Bogotá,Carga seca,Garzón,380,0,1965475
+MT00162,2026-04-05,Neiva–Cali,Café,Neiva,310,0,1633339
+MT00163,2025-10-17,Neiva–Cartagena,Café,Neiva,710,0,3838377
+MT00164,2026-06-17,Neiva–Bogotá,Carga seca,Neiva,380,0,2065406
+MT00165,2026-04-15,Neiva–Cali,Paquetería,Garzón,310,0,1797114
+MT00166,2026-03-04,Neiva–Cali,Café,Garzón,310,34,1790698
+MT00167,2026-05-26,Pitalito–Neiva,Café,Neiva,130,0,839824
+MT00168,2025-09-02,Neiva–Medellín,Carga seca,Neiva,460,227,2522841
+MT00169,2026-05-22,Neiva–Medellín,Carga seca,Neiva,460,112,2914499
+MT00170,2026-10-19,Neiva–Bogotá,Carga seca,Neiva,380,0,2078060
+MT00171,2025-10-24,Neiva–Cali,Carga seca,Garzón,310,0,1409019
+MT00172,2025-09-24,Neiva–Cali,Café,Neiva,310,0,2220179
+MT00173,2025-08-16,Pitalito–Neiva,Café,Neiva,130,0,885785
+MT00174,2025-07-25,Neiva–Cartagena,Carga seca,Neiva,710,83,3420919
+MT00175,2026-09-02,Neiva–Cali,Café,Garzón,310,0,1806895
+MT00176,2026-06-09,Pitalito–Neiva,Carga seca,Garzón,130,0,601084
+MT00177,2025-10-07,Pitalito–Neiva,Café,Garzón,130,33,790107
+MT00178,2025-02-14,Neiva–Medellín,Carga seca,Pitalito,460,0,2712136
+MT00179,2026-03-06,Neiva–Cali,Carga seca,Neiva,310,0,1563820
+MT00180,2025-05-08,Neiva–Cali,Café,Neiva,310,0,1858663
+MT00181,2026-04-20,Neiva–Medellín,Carga seca,Pitalito,460,0,2367080
+MT00182,2026-05-08,Neiva–Cartagena,Café,Garzón,710,89,3441545
+MT00183,2025-05-15,Neiva–Bogotá,Carga seca,Pitalito,380,0,2078301
+MT00184,2025-01-30,Neiva–Medellín,Carga seca,Neiva,460,0,2176690
+MT00185,2025-10-10,Neiva–Cali,Carga seca,Neiva,310,0,1336457
+MT00186,2025-05-24,Pitalito–Neiva,Café,Neiva,130,0,791568
+MT00187,2025-09-27,Neiva–Cartagena,Café,Neiva,710,0,3786307
+MT00188,2026-03-06,Neiva–Bogotá,Carga seca,Neiva,380,0,2312404
+MT00189,2025-03-22,Neiva–Cali,Carga seca,Neiva,310,0,1508422
+MT00190,2026-02-06,Neiva–Bogotá,Carga seca,Pitalito,380,0,1808146
+MT00191,2025-06-29,Neiva–Cali,Paquetería,Neiva,310,0,1416621
+MT00192,2026-04-08,Neiva–Cali,Café,Neiva,310,0,2055481
+MT00193,2026-01-14,Neiva–Medellín,Carga seca,Garzón,460,127,2868134
+MT00194,2026-07-09,Neiva–Cali,Café,Neiva,310,0,1546730
+MT00195,2025-01-18,Pitalito–Neiva,Paquetería,Neiva,130,0,818718
+MT00196,2026-04-21,Neiva–Medellín,Café,Neiva,460,0,2364220
+MT00197,2026-08-11,Pitalito–Neiva,Carga seca,Neiva,130,0,833952
+MT00198,2026-08-21,Neiva–Bogotá,Café,Neiva,380,157,2139878
+MT00199,2025-02-16,Neiva–Cartagena,Carga seca,Neiva,710,0,3714878
+MT00200,2026-08-21,Neiva–Bogotá,Café,Pitalito,380,0,2208250
+MT00201,2026-08-07,Neiva–Bogotá,Café,Neiva,380,0,2042175
+MT00202,2025-01-03,Neiva–Medellín,Carga seca,Neiva,460,0,2186234
+MT00203,2025-02-28,Neiva–Cali,Paquetería,Neiva,310,0,1694137
+MT00204,2026-04-28,Neiva–Medellín,Café,Neiva,460,83,2355704
+MT00205,2025-07-23,Neiva–Bogotá,Café,Neiva,380,0,2376528
+MT00206,2025-09-26,Neiva–Bogotá,Carga seca,Pitalito,380,0,2142443
+MT00207,2025-01-14,Neiva–Medellín,Carga seca,Neiva,460,0,2618036
+MT00208,2025-10-30,Neiva–Medellín,Carga seca,Neiva,460,0,2551985
+MT00209,2026-10-03,Neiva–Cartagena,Café,Neiva,710,0,4251378
+MT00210,2025-07-10,Neiva–Cartagena,Carga seca,Neiva,710,0,3473164
+MT00211,2026-07-30,Neiva–Medellín,Carga seca,Pitalito,460,0,2288263
+MT00212,2025-04-23,Neiva–Cali,Carga seca,Neiva,310,0,1615431
+MT00213,2026-03-30,Neiva–Medellín,Paquetería,Neiva,460,0,2743528
+MT00214,2025-05-25,Neiva–Bogotá,Café,Pitalito,380,0,1967773
+MT00215,2026-06-28,Neiva–Cartagena,Café,Neiva,710,0,4363506
+MT00216,2025-07-25,Pitalito–Neiva,Café,Garzón,130,0,704720
+MT00217,2025-10-06,Neiva–Bogotá,Carga seca,Neiva,380,0,2028750
+MT00218,2025-11-01,Neiva–Cali,Café,Neiva,310,0,1596047
+MT00219,2025-08-26,Pitalito–Neiva,Carga seca,Neiva,130,213,722238
+MT00220,2025-03-30,Neiva–Medellín,Café,Neiva,460,220,2889106
+MT00221,2026-02-06,Neiva–Cali,Café,Neiva,310,0,2129680
+MT00222,2025-03-30,Neiva–Bogotá,Carga seca,Pitalito,380,0,1969764
+MT00223,2025-06-28,Neiva–Cartagena,Café,Neiva,710,0,3595281
+MT00224,2025-06-30,Neiva–Cali,Carga seca,Neiva,310,121,1462067
+MT00225,2025-03-26,Neiva–Bogotá,Café,Neiva,380,0,2506129
+MT00226,2025-05-13,Neiva–Cali,Carga seca,Neiva,310,0,1893209
+MT00227,2025-09-17,Neiva–Cartagena,Café,Neiva,710,206,5004514
+MT00228,2026-01-17,Neiva–Cali,Café,Neiva,310,0,1493085
+MT00229,2025-03-29,Neiva–Cali,Café,Garzón,310,149,2159410
+MT00230,2026-09-07,Neiva–Bogotá,Paquetería,Neiva,380,0,1728866
+MT00231,2026-06-03,Neiva–Medellín,Carga seca,Neiva,460,0,2980254
+MT00232,2025-02-08,Neiva–Medellín,Carga seca,Neiva,460,136,2208348
+MT00233,2025-05-21,Neiva–Medellín,Café,Neiva,460,0,2288312
+MT00234,2025-06-22,Neiva–Bogotá,Café,Garzón,380,0,2265386
+MT00235,2025-02-25,Neiva–Medellín,Paquetería,Garzón,460,0,2888234
+MT00236,2026-01-04,Neiva–Bogotá,Paquetería,Neiva,380,0,2042222
+MT00237,2026-01-26,Neiva–Medellín,Café,Neiva,460,83,2594446
+MT00238,2025-05-24,Neiva–Bogotá,Carga seca,Neiva,380,0,1810406
+MT00239,2025-02-14,Neiva–Medellín,Carga seca,Neiva,460,0,2003300
+MT00240,2025-07-30,Neiva–Cali,Carga seca,Garzón,310,0,1710552
+MT00241,2026-09-27,Neiva–Cali,Carga seca,Neiva,310,187,1510473
+MT00242,2025-09-28,Neiva–Cali,Carga seca,Garzón,310,0,1841701
+MT00243,2025-03-17,Neiva–Medellín,Carga seca,Neiva,460,70,2584643
+MT00244,2026-08-17,Neiva–Cali,Paquetería,Pitalito,310,189,1401254
+MT00245,2026-03-22,Neiva–Bogotá,Café,Neiva,380,0,2222997
+MT00246,2026-03-12,Neiva–Cartagena,Café,Neiva,710,0,4646611
+MT00247,2026-05-12,Neiva–Cali,Café,Neiva,310,0,1619858
+MT00248,2025-03-20,Neiva–Cali,Café,Neiva,310,0,1865366
+MT00249,2026-10-23,Neiva–Bogotá,Paquetería,Neiva,380,0,1931187
+MT00250,2025-10-11,Neiva–Cali,Café,Neiva,310,82,1726825
+MT00251,2025-11-15,Neiva–Medellín,Café,Garzón,460,0,3207932
+MT00252,2025-10-08,Neiva–Bogotá,Paquetería,Neiva,380,0,1704750
+MT00253,2025-07-24,Neiva–Bogotá,Carga seca,Pitalito,380,0,2251595
+MT00254,2025-07-17,Neiva–Bogotá,Paquetería,Neiva,380,0,1666115
+MT00255,2026-02-26,Neiva–Medellín,Café,Neiva,460,0,2579684
+MT00256,2026-07-08,Pitalito–Neiva,Paquetería,Neiva,130,0,786725
+MT00257,2025-05-27,Pitalito–Neiva,Carga seca,Neiva,130,0,756431
+MT00258,2026-03-25,Neiva–Cali,Carga seca,Neiva,310,0,1432319
+MT00259,2026-04-24,Neiva–Bogotá,Café,Pitalito,380,0,2672510
+MT00260,2025-08-27,Neiva–Medellín,Carga seca,Neiva,460,42,2366894
+MT00261,2025-10-28,Pitalito–Neiva,Café,Neiva,130,0,682342
+MT00262,2025-06-15,Neiva–Cali,Carga seca,Neiva,310,0,1976325
+MT00263,2026-09-01,Neiva–Medellín,Carga seca,Pitalito,460,0,2757519
+MT00264,2026-09-03,Neiva–Medellín,Café,Neiva,460,0,2813982
+MT00265,2025-10-03,Neiva–Cali,Carga seca,Neiva,310,0,1894866
+MT00266,2026-06-13,Pitalito–Neiva,Café,Neiva,130,0,835339
+MT00267,2026-05-07,Pitalito–Neiva,Carga seca,Neiva,130,0,761729
+MT00268,2025-11-13,Pitalito–Neiva,Carga seca,Pitalito,130,203,688085
+MT00269,2025-12-21,Neiva–Bogotá,Café,Neiva,380,0,2184813
+MT00270,2025-06-13,Neiva–Medellín,Café,Neiva,460,0,2776642
+MT00271,2026-06-02,Neiva–Medellín,Carga seca,Neiva,460,0,2854792
+MT00272,2025-11-04,Neiva–Cali,Carga seca,Neiva,310,200,1383310
+MT00273,2025-10-16,Neiva–Bogotá,Paquetería,Neiva,380,0,2452126
+MT00274,2025-08-09,Pitalito–Neiva,Carga seca,Neiva,130,0,589352
+MT00275,2025-05-17,Neiva–Bogotá,Carga seca,Neiva,380,0,2151662
+MT00276,2026-05-10,Neiva–Cali,Carga seca,Neiva,310,76,1455164
+MT00277,2026-05-30,Neiva–Cartagena,Café,Neiva,710,0,4639291
+MT00278,2026-10-25,Neiva–Medellín,Café,Neiva,460,0,3320337
+MT00279,2026-03-03,Neiva–Cartagena,Carga seca,Pitalito,710,0,3344193
+MT00280,2025-11-04,Neiva–Cali,Café,Neiva,310,0,1609495
+MT00281,2026-06-29,Neiva–Cartagena,Café,Pitalito,710,178,4168148
+MT00282,2025-07-05,Neiva–Cartagena,Carga seca,Neiva,710,102,3805534
+MT00283,2025-08-07,Neiva–Medellín,Carga seca,Garzón,460,0,2299033
+MT00284,2026-06-01,Neiva–Cali,Café,Neiva,310,234,2111611
+MT00285,2025-07-05,Neiva–Cartagena,Café,Neiva,710,0,4433018
+MT00286,2026-07-11,Neiva–Medellín,Carga seca,Neiva,460,0,2884313
+MT00287,2026-01-28,Neiva–Bogotá,Café,Pitalito,380,208,1856766
+MT00288,2026-09-12,Neiva–Cali,Carga seca,Neiva,310,0,1475532
+MT00289,2026-05-13,Neiva–Cali,Café,Pitalito,310,0,2102449
+MT00290,2025-12-30,Neiva–Cali,Paquetería,Neiva,310,0,1607378
+MT00291,2025-09-09,Neiva–Cali,Café,Neiva,310,0,2109265
+MT00292,2026-08-16,Neiva–Bogotá,Carga seca,Neiva,380,0,2199646
+MT00293,2025-08-24,Neiva–Bogotá,Café,Neiva,380,101,2712547
+MT00294,2026-03-27,Neiva–Cartagena,Carga seca,Neiva,710,0,3100265
+MT00295,2025-09-10,Neiva–Bogotá,Carga seca,Neiva,380,0,2108193
+MT00296,2025-01-29,Pitalito–Neiva,Paquetería,Neiva,130,0,589199
+MT00297,2026-02-12,Neiva–Bogotá,Café,Neiva,380,0,2644516
+MT00298,2025-12-06,Neiva–Bogotá,Carga seca,Neiva,380,0,2108834
+MT00299,2025-12-03,Neiva–Medellín,Café,Neiva,460,0,2921573
+MT00300,2026-05-01,Neiva–Cali,Carga seca,Neiva,310,0,1480992
+MT00301,2025-09-28,Neiva–Bogotá,Café,Garzón,380,102,2245137
+MT00302,2025-11-08,Neiva–Bogotá,Paquetería,Neiva,380,0,1938638
+MT00303,2025-10-07,Neiva–Cali,Café,Neiva,310,0,2132976
+MT00304,2025-07-16,Neiva–Medellín,Café,Neiva,460,0,3276453
+MT00305,2026-03-30,Neiva–Medellín,Carga seca,Neiva,460,0,2386826
+MT00306,2025-09-23,Neiva–Bogotá,Carga seca,Pitalito,380,0,2078885
+MT00307,2026-08-10,Neiva–Bogotá,Paquetería,Neiva,380,0,1717876
+MT00308,2025-09-10,Neiva–Medellín,Carga seca,Neiva,460,0,2592450
+MT00309,2026-08-14,Pitalito–Neiva,Café,Neiva,130,193,733763
+MT00310,2025-03-03,Neiva–Bogotá,Paquetería,Garzón,380,0,2299796
+MT00311,2026-08-19,Pitalito–Neiva,Carga seca,Neiva,130,0,596512
+MT00312,2026-01-23,Neiva–Bogotá,Café,Neiva,380,0,2620794
+MT00313,2025-06-10,Neiva–Bogotá,Café,Neiva,380,0,2163843
+MT00314,2026-06-22,Pitalito–Neiva,Café,Pitalito,130,0,855391
+MT00315,2025-01-24,Neiva–Cali,Café,Garzón,310,117,2158454
+MT00316,2026-09-10,Neiva–Cali,Café,Neiva,310,0,1700562
+MT00317,2026-01-23,Neiva–Medellín,Paquetería,Neiva,460,200,2372772
+MT00318,2026-08-16,Neiva–Cali,Café,Pitalito,310,0,1702757
+MT00319,2026-02-06,Neiva–Cartagena,Café,Neiva,710,0,4416303
+MT00320,2025-11-09,Neiva–Cartagena,Café,Neiva,710,0,4635411
+MT00321,2025-04-18,Neiva–Cali,Paquetería,Neiva,310,0,2013848
+MT00322,2026-06-06,Neiva–Medellín,Café,Neiva,460,0,2533501
+MT00323,2026-05-27,Pitalito–Neiva,Paquetería,Neiva,130,0,791518
+MT00324,2026-06-25,Neiva–Bogotá,Carga seca,Neiva,380,0,2193250
+MT00325,2026-09-03,Pitalito–Neiva,Paquetería,Neiva,130,0,668310
+MT00326,2026-05-05,Neiva–Cartagena,Carga seca,Neiva,710,48,4598745
+MT00327,2025-10-09,Neiva–Medellín,Carga seca,Neiva,460,0,2595959
+MT00328,2025-09-10,Neiva–Cali,Café,Neiva,310,0,1935134
+MT00329,2026-05-23,Neiva–Cali,Paquetería,Neiva,310,189,1427513
+MT00330,2026-10-01,Pitalito–Neiva,Carga seca,Neiva,130,0,787858
+MT00331,2026-06-30,Neiva–Bogotá,Carga seca,Neiva,380,0,2179101
+MT00332,2025-08-24,Neiva–Medellín,Carga seca,Neiva,460,40,2800973
+MT00333,2025-12-19,Pitalito–Neiva,Paquetería,Neiva,130,0,775733
+MT00334,2026-05-10,Neiva–Bogotá,Café,Neiva,380,0,2465206
+MT00335,2026-07-16,Pitalito–Neiva,Carga seca,Neiva,130,0,716688
+MT00336,2025-01-11,Neiva–Bogotá,Paquetería,Neiva,380,0,2128845
+MT00337,2026-09-18,Neiva–Bogotá,Café,Neiva,380,0,2275785
+MT00338,2026-02-25,Neiva–Bogotá,Café,Neiva,380,0,2078003
+MT00339,2025-05-11,Neiva–Bogotá,Café,Neiva,380,0,2062009
+MT00340,2025-11-04,Neiva–Bogotá,Carga seca,Neiva,380,0,1787978
+MT00341,2026-08-26,Neiva–Bogotá,Café,Neiva,380,0,2162960
+MT00342,2025-07-24,Neiva–Bogotá,Carga seca,Pitalito,380,97,2268043
+MT00343,2026-02-06,Pitalito–Neiva,Paquetería,Garzón,130,0,655024
+MT00344,2026-01-02,Neiva–Bogotá,Paquetería,Neiva,380,0,2368656
+MT00345,2025-09-20,Pitalito–Neiva,Café,Neiva,130,0,791975
+MT00346,2025-05-07,Neiva–Bogotá,Paquetería,Pitalito,380,0,2305629
+MT00347,2025-05-24,Pitalito–Neiva,Paquetería,Neiva,130,0,581563
+MT00348,2025-09-26,Neiva–Bogotá,Café,Pitalito,380,174,2298432
+MT00349,2025-09-09,Neiva–Medellín,Carga seca,Neiva,460,210,2959554
+MT00350,2025-12-31,Pitalito–Neiva,Café,Neiva,130,140,902366
+MT00351,2025-11-05,Neiva–Cali,Café,Neiva,310,0,2009122
+MT00352,2025-12-20,Neiva–Cartagena,Paquetería,Neiva,710,0,4383044
+MT00353,2025-07-12,Pitalito–Neiva,Café,Neiva,130,0,652869
+MT00354,2025-11-14,Neiva–Bogotá,Café,Neiva,380,0,2031919
+MT00355,2025-03-27,Neiva–Bogotá,Café,Pitalito,380,0,2614611
+MT00356,2026-10-06,Neiva–Bogotá,Carga seca,Neiva,380,0,1970020
+MT00357,2025-11-03,Neiva–Cali,Carga seca,Neiva,310,0,1471898
+MT00358,2025-07-07,Neiva–Cali,Café,Neiva,310,0,2184404
+MT00359,2025-09-06,Neiva–Cartagena,Café,Neiva,710,0,5121693
+MT00360,2026-09-13,Neiva–Bogotá,Paquetería,Neiva,380,0,2367482
+MT00361,2026-06-21,Neiva–Medellín,Café,Neiva,460,0,2347599
+MT00362,2026-02-27,Neiva–Bogotá,Carga seca,Garzón,380,0,1797774
+MT00363,2026-03-10,Neiva–Cartagena,Paquetería,Neiva,710,0,4007332
+MT00364,2025-11-28,Pitalito–Neiva,Carga seca,Neiva,130,0,829696
+MT00365,2026-08-10,Neiva–Medellín,Carga seca,Pitalito,460,0,2576493
+MT00366,2025-07-29,Neiva–Bogotá,Carga seca,Pitalito,380,178,1798856
+MT00367,2025-01-02,Neiva–Medellín,Carga seca,Neiva,460,0,2641674
+MT00368,2025-10-29,Neiva–Medellín,Carga seca,Neiva,460,0,2396063
+MT00369,2026-07-03,Neiva–Cali,Carga seca,Neiva,310,0,1515984
+MT00370,2025-11-27,Pitalito–Neiva,Café,Neiva,130,0,735450
+MT00371,2026-05-01,Neiva–Bogotá,Carga seca,Pitalito,380,0,1979945
+MT00372,2026-04-01,Neiva–Medellín,Carga seca,Neiva,460,0,2428512
+MT00373,2025-08-02,Neiva–Cali,Carga seca,Neiva,310,0,1775500
+MT00374,2026-01-03,Neiva–Cali,Paquetería,Garzón,310,0,1687593
+MT00375,2025-05-14,Neiva–Medellín,Carga seca,Garzón,460,0,2181697
+MT00376,2025-08-01,Neiva–Bogotá,Café,Neiva,380,0,2526815
+MT00377,2026-07-20,Neiva–Cartagena,Paquetería,Neiva,710,0,4097464
+MT00378,2025-03-14,Neiva–Bogotá,Café,Neiva,380,0,2137792
+MT00379,2025-01-26,Neiva–Cali,Paquetería,Neiva,310,0,1409304
+MT00380,2025-07-21,Neiva–Bogotá,Paquetería,Neiva,380,0,1937792
+MT00381,2025-06-06,Neiva–Bogotá,Carga seca,Pitalito,380,0,1775446
+MT00382,2026-02-11,Neiva–Medellín,Café,Pitalito,460,0,3153465
+MT00383,2025-12-05,Neiva–Cali,Café,Neiva,310,0,2164894
+MT00384,2025-12-03,Neiva–Medellín,Carga seca,Pitalito,460,0,2815747
+MT00385,2026-05-02,Neiva–Cali,Carga seca,Neiva,310,0,1577362
+MT00386,2026-07-14,Pitalito–Neiva,Paquetería,Pitalito,130,0,701010
+MT00387,2025-06-27,Pitalito–Neiva,Café,Neiva,130,0,633356
+MT00388,2025-09-01,Neiva–Cartagena,Carga seca,Neiva,710,0,3204537
+MT00389,2025-07-22,Neiva–Bogotá,Café,Neiva,380,199,2551456
+MT00390,2025-10-16,Neiva–Medellín,Carga seca,Neiva,460,0,2359725
+MT00391,2025-02-04,Neiva–Bogotá,Café,Neiva,380,0,2317389
+MT00392,2025-07-09,Neiva–Bogotá,Café,Pitalito,380,0,2132909
+MT00393,2026-03-28,Pitalito–Neiva,Café,Neiva,130,0,853414
+MT00394,2026-01-22,Pitalito–Neiva,Carga seca,Neiva,130,0,744535
+MT00395,2026-01-08,Neiva–Cali,Carga seca,Neiva,310,145,1718949
+MT00396,2025-02-25,Neiva–Medellín,Café,Neiva,460,0,2963938
+MT00397,2025-12-08,Neiva–Cali,Paquetería,Neiva,310,0,1915625
+MT00398,2025-08-06,Neiva–Cali,Paquetería,Garzón,310,0,1498986
+MT00399,2026-08-16,Neiva–Bogotá,Café,Neiva,380,0,2182173
+MT00400,2025-07-26,Neiva–Bogotá,Carga seca,Pitalito,380,0,2276299
+MT00401,2025-02-11,Neiva–Bogotá,Carga seca,Pitalito,380,0,1933718
+MT00402,2026-03-13,Neiva–Cartagena,Carga seca,Neiva,710,0,3387750
+MT00403,2026-04-07,Pitalito–Neiva,Carga seca,Pitalito,130,53,831808
+MT00404,2025-12-17,Neiva–Medellín,Carga seca,Neiva,460,0,2417566
+MT00405,2026-09-26,Neiva–Bogotá,Café,Neiva,380,0,2326866
+MT00406,2025-04-24,Neiva–Cartagena,Café,Neiva,710,0,5117469
+MT00407,2026-07-07,Neiva–Cartagena,Café,Neiva,710,110,4045781
+MT00408,2025-04-29,Neiva–Cali,Café,Neiva,310,0,2089653
+MT00409,2026-01-13,Neiva–Bogotá,Café,Neiva,380,0,2195735
+MT00410,2025-05-12,Neiva–Medellín,Carga seca,Neiva,460,142,2141755
+MT00411,2025-08-09,Neiva–Bogotá,Carga seca,Garzón,380,0,2239888
+MT00412,2025-09-23,Pitalito–Neiva,Paquetería,Pitalito,130,162,574377
+MT00413,2026-10-21,Neiva–Medellín,Carga seca,Garzón,460,199,2289689
+MT00414,2025-06-15,Neiva–Bogotá,Café,Neiva,380,0,2046044
+MT00415,2025-05-21,Neiva–Bogotá,Carga seca,Pitalito,380,171,1998364
+MT00416,2026-08-20,Neiva–Bogotá,Café,Neiva,380,0,1872810
+MT00417,2026-07-24,Neiva–Cali,Café,Neiva,310,116,1978267
+MT00418,2026-08-17,Neiva–Medellín,Carga seca,Neiva,460,0,2065287
+MT00419,2026-04-09,Neiva–Cartagena,Café,Neiva,710,0,4513333
+MT00420,2026-05-12,Neiva–Cali,Café,Neiva,310,0,1664935
+MT00421,2025-03-29,Neiva–Bogotá,Paquetería,Neiva,380,140,2320495
+MT00422,2026-07-04,Neiva–Cartagena,Carga seca,Neiva,710,0,4067969
+MT00423,2026-06-23,Neiva–Bogotá,Café,Pitalito,380,0,2670452
+MT00424,2025-02-10,Neiva–Medellín,Café,Neiva,460,0,3242985
+MT00425,2026-02-18,Neiva–Cali,Café,Neiva,310,110,1942712
+MT00426,2025-06-21,Neiva–Medellín,Café,Pitalito,460,118,3111572
+MT00427,2025-05-02,Neiva–Cali,Café,Neiva,310,0,1627184
+MT00428,2025-11-05,Neiva–Cali,Carga seca,Neiva,310,136,1615878
+MT00429,2026-03-31,Neiva–Bogotá,Paquetería,Neiva,380,134,2268410
+MT00430,2025-09-07,Pitalito–Neiva,Carga seca,Neiva,130,0,790609
+MT00431,2026-01-26,Neiva–Cartagena,Paquetería,Neiva,710,0,4321821
+MT00432,2025-09-06,Neiva–Medellín,Carga seca,Pitalito,460,0,2081634
+MT00433,2025-08-26,Neiva–Cartagena,Paquetería,Neiva,710,0,3604934
+MT00434,2025-10-17,Neiva–Bogotá,Paquetería,Neiva,380,0,1673188
+MT00435,2026-07-03,Neiva–Medellín,Café,Neiva,460,0,2621740
+MT00436,2025-08-21,Pitalito–Neiva,Café,Neiva,130,0,753330
+MT00437,2025-03-18,Neiva–Cali,Paquetería,Garzón,310,0,1349381
+MT00438,2026-07-29,Neiva–Bogotá,Carga seca,Neiva,380,0,1663798
+MT00439,2025-08-26,Neiva–Cartagena,Paquetería,Neiva,710,0,3208879
+MT00440,2025-04-13,Neiva–Bogotá,Carga seca,Pitalito,380,184,2124248
+MT00441,2026-10-06,Pitalito–Neiva,Paquetería,Neiva,130,0,780914
+MT00442,2026-02-19,Neiva–Bogotá,Café,Pitalito,380,0,2737780
+MT00443,2026-04-24,Neiva–Cartagena,Café,Pitalito,710,0,4813662
+MT00444,2026-02-11,Neiva–Medellín,Café,Pitalito,460,0,2924408
+MT00445,2026-10-23,Neiva–Cali,Paquetería,Neiva,310,0,1380882
+MT00446,2025-07-19,Neiva–Cali,Carga seca,Neiva,310,0,1703686
+MT00447,2026-11-01,Neiva–Medellín,Carga seca,Neiva,460,0,2244253
+MT00448,2025-11-14,Neiva–Cali,Carga seca,Garzón,310,0,1828656
+MT00449,2026-06-01,Neiva–Medellín,Carga seca,Neiva,460,0,2248968
+MT00450,2025-07-15,Pitalito–Neiva,Carga seca,Neiva,130,0,754259
+MT00451,2025-01-19,Neiva–Bogotá,Carga seca,Neiva,380,0,2062967
+MT00452,2025-11-25,Neiva–Bogotá,Carga seca,Pitalito,380,0,2147023
+MT00453,2026-07-28,Neiva–Bogotá,Paquetería,Neiva,380,0,1780737
+MT00454,2025-01-01,Neiva–Bogotá,Paquetería,Neiva,380,135,1694367
+MT00455,2026-10-21,Neiva–Cali,Carga seca,Pitalito,310,232,1403529
+MT00456,2025-02-19,Pitalito–Neiva,Carga seca,Neiva,130,0,700044
+MT00457,2025-05-19,Pitalito–Neiva,Carga seca,Neiva,130,0,580554
+MT00458,2026-06-22,Pitalito–Neiva,Carga seca,Neiva,130,125,683618
+MT00459,2025-05-08,Neiva–Bogotá,Carga seca,Neiva,380,0,2184261
+MT00460,2025-12-17,Neiva–Cali,Carga seca,Pitalito,310,118,1747514
+MT00461,2025-05-05,Neiva–Bogotá,Carga seca,Pitalito,380,0,1665079
+MT00462,2025-04-04,Neiva–Bogotá,Café,Neiva,380,0,2077532
+MT00463,2026-04-29,Neiva–Bogotá,Carga seca,Neiva,380,0,2056333
+MT00464,2026-09-11,Neiva–Cali,Carga seca,Neiva,310,0,1609906
+MT00465,2026-09-08,Neiva–Bogotá,Café,Neiva,380,0,2626273
+MT00466,2026-05-03,Neiva–Bogotá,Café,Pitalito,380,0,2369516
+MT00467,2025-03-04,Neiva–Cartagena,Café,Neiva,710,0,3607329
+MT00468,2025-06-21,Neiva–Bogotá,Café,Neiva,380,0,2086971
+MT00469,2026-09-29,Neiva–Bogotá,Café,Pitalito,380,0,2244262
+MT00470,2025-05-18,Neiva–Cartagena,Café,Neiva,710,0,4288865
+MT00471,2025-05-20,Neiva–Cartagena,Café,Neiva,710,196,4784012
+MT00472,2025-05-26,Neiva–Bogotá,Carga seca,Neiva,380,0,1923017
+MT00473,2025-05-04,Neiva–Cartagena,Carga seca,Neiva,710,181,4154929
+MT00474,2025-09-20,Neiva–Bogotá,Café,Pitalito,380,0,2630923
+MT00475,2026-03-13,Neiva–Cartagena,Carga seca,Garzón,710,212,3164235
+MT00476,2025-05-08,Neiva–Bogotá,Paquetería,Garzón,380,0,1731035
+MT00477,2026-08-17,Pitalito–Neiva,Café,Pitalito,130,64,714294
+MT00478,2026-08-17,Pitalito–Neiva,Carga seca,Neiva,130,0,662255
+MT00479,2026-06-30,Neiva–Bogotá,Café,Neiva,380,0,1866772
+MT00480,2025-05-21,Neiva–Medellín,Carga seca,Neiva,460,120,2207361
+MT00481,2025-05-18,Neiva–Cartagena,Café,Neiva,710,0,4945239
+MT00482,2025-06-16,Neiva–Bogotá,Café,Neiva,380,0,1892823
+MT00483,2025-07-05,Pitalito–Neiva,Paquetería,Neiva,130,0,843863
+MT00484,2025-02-01,Neiva–Medellín,Café,Neiva,460,0,3129523
+MT00485,2026-03-08,Neiva–Bogotá,Café,Neiva,380,0,2716001
+MT00486,2025-06-17,Pitalito–Neiva,Carga seca,Neiva,130,157,644637
+MT00487,2026-08-07,Neiva–Medellín,Carga seca,Neiva,460,128,1981416
+MT00488,2026-02-06,Neiva–Medellín,Café,Neiva,460,40,2900822
+MT00489,2026-06-27,Neiva–Cali,Carga seca,Neiva,310,0,1469442
+MT00490,2026-01-04,Neiva–Cartagena,Café,Neiva,710,0,4247358
+MT00491,2025-10-15,Pitalito–Neiva,Paquetería,Pitalito,130,56,719932
+MT00492,2026-10-31,Neiva–Cali,Café,Garzón,310,154,1729148
+MT00493,2025-01-11,Neiva–Medellín,Carga seca,Neiva,460,0,2599110
+MT00494,2025-07-01,Neiva–Cali,Carga seca,Neiva,310,0,1825053
+MT00495,2026-08-31,Pitalito–Neiva,Paquetería,Garzón,130,0,665675
+MT00496,2026-08-28,Neiva–Cali,Carga seca,Neiva,310,211,1431953
+MT00497,2025-03-19,Pitalito–Neiva,Café,Pitalito,130,0,674866
+MT00498,2025-07-26,Pitalito–Neiva,Café,Neiva,130,0,808466
+MT00499,2025-11-26,Neiva–Medellín,Carga seca,Neiva,460,0,2258444
+MT00500,2026-09-09,Neiva–Bogotá,Carga seca,Neiva,380,192,1791391
+MT00501,2026-09-08,Neiva–Medellín,Carga seca,Garzón,460,162,2094177
+MT00502,2025-09-22,Neiva–Medellín,Café,Neiva,460,101,2935844
+MT00503,2025-12-15,Neiva–Medellín,Café,Neiva,460,100,3004220
+MT00504,2025-12-12,Neiva–Cali,Carga seca,Neiva,310,0,1813241
+MT00505,2025-10-29,Neiva–Medellín,Café,Neiva,460,0,2829995
+MT00506,2025-12-10,Neiva–Cartagena,Café,Pitalito,710,122,3634821
+MT00507,2026-04-25,Neiva–Cartagena,Carga seca,Neiva,710,0,4474898
+MT00508,2026-10-05,Pitalito–Neiva,Carga seca,Pitalito,130,0,771518
+MT00509,2025-10-15,Neiva–Cali,Carga seca,Neiva,310,0,1692303
+MT00510,2026-09-16,Neiva–Cartagena,Café,Pitalito,710,0,3643689
+MT00511,2026-05-02,Pitalito–Neiva,Café,Garzón,130,158,727865
+MT00512,2026-10-02,Neiva–Cartagena,Carga seca,Pitalito,710,0,4090605
+MT00513,2026-08-13,Neiva–Bogotá,Carga seca,Neiva,380,0,2022168
+MT00514,2025-01-26,Neiva–Cartagena,Café,Neiva,710,0,3971364
+MT00515,2026-04-17,Neiva–Cartagena,Café,Neiva,710,0,4983865
+MT00516,2025-05-26,Neiva–Cali,Carga seca,Pitalito,310,0,1390401
+MT00517,2025-07-20,Neiva–Cali,Carga seca,Neiva,310,0,1404914
+MT00518,2026-09-12,Neiva–Cartagena,Café,Neiva,710,55,4063176
+MT00519,2025-11-09,Neiva–Cali,Paquetería,Neiva,310,0,1951364
+MT00520,2025-04-09,Neiva–Cartagena,Paquetería,Neiva,710,0,3205936
+MT00521,2026-07-09,Neiva–Medellín,Carga seca,Neiva,460,0,2824461
+MT00522,2026-05-20,Pitalito–Neiva,Paquetería,Pitalito,130,0,625412
+MT00523,2026-03-18,Neiva–Cartagena,Carga seca,Neiva,710,177,3207146
+MT00524,2026-07-10,Neiva–Cali,Café,Neiva,310,0,1900981
+MT00525,2026-06-08,Neiva–Medellín,Paquetería,Pitalito,460,0,2296591
+MT00526,2025-07-18,Neiva–Bogotá,Paquetería,Neiva,380,198,2072510
+MT00527,2025-02-22,Neiva–Medellín,Carga seca,Neiva,460,0,2907398
+MT00528,2025-08-28,Neiva–Bogotá,Carga seca,Garzón,380,0,2293536
+MT00529,2025-06-01,Neiva–Cartagena,Paquetería,Pitalito,710,0,3430897
+MT00530,2025-04-29,Neiva–Cali,Carga seca,Neiva,310,0,1930542
+MT00531,2025-04-06,Neiva–Cali,Carga seca,Pitalito,310,0,1526718
+MT00532,2026-01-23,Neiva–Cali,Café,Neiva,310,155,1842410
+MT00533,2025-03-11,Neiva–Medellín,Café,Neiva,460,0,2839798
+MT00534,2025-02-02,Neiva–Medellín,Carga seca,Neiva,460,0,2129298
+MT00535,2026-08-12,Neiva–Cali,Paquetería,Pitalito,310,0,1544143
+MT00536,2025-05-14,Neiva–Bogotá,Paquetería,Neiva,380,0,1702720
+MT00537,2025-10-29,Pitalito–Neiva,Carga seca,Neiva,130,0,804796
+MT00538,2025-05-19,Neiva–Medellín,Café,Neiva,460,190,2741977
+MT00539,2025-10-06,Pitalito–Neiva,Carga seca,Garzón,130,0,710261
+MT00540,2026-08-20,Neiva–Bogotá,Café,Garzón,380,0,2641446
+MT00541,2025-05-10,Neiva–Bogotá,Carga seca,Pitalito,380,62,2453436
+MT00542,2026-07-08,Neiva–Cali,Café,Neiva,310,0,1777161
+MT00543,2025-08-03,Neiva–Medellín,Carga seca,Neiva,460,119,2310549
+MT00544,2025-01-07,Neiva–Cali,Carga seca,Neiva,310,0,1360237
+MT00545,2025-07-12,Neiva–Bogotá,Carga seca,Neiva,380,225,1882749
+MT00546,2026-07-11,Neiva–Cali,Carga seca,Neiva,310,0,1992351
+MT00547,2026-06-27,Neiva–Cali,Carga seca,Neiva,310,0,1562919
+MT00548,2026-02-06,Neiva–Cali,Carga seca,Neiva,310,0,1712691
+MT00549,2026-02-27,Pitalito–Neiva,Café,Pitalito,130,0,789779
+MT00550,2025-12-24,Neiva–Bogotá,Carga seca,Pitalito,380,0,2211750
+MT00551,2026-06-20,Neiva–Cali,Café,Pitalito,310,0,2190785
+MT00552,2026-06-07,Neiva–Cali,Carga seca,Neiva,310,0,1655620
+MT00553,2025-11-01,Neiva–Cali,Paquetería,Neiva,310,37,1929174
+MT00554,2026-01-17,Neiva–Cali,Paquetería,Neiva,310,0,1878374
+MT00555,2026-06-12,Neiva–Bogotá,Café,Neiva,380,0,2093611
+MT00556,2026-05-27,Neiva–Cartagena,Carga seca,Neiva,710,108,4248505
+MT00557,2025-01-09,Neiva–Cartagena,Carga seca,Pitalito,710,0,3525546
+MT00558,2025-06-09,Neiva–Medellín,Carga seca,Pitalito,460,0,2248669
+MT00559,2026-01-01,Neiva–Cartagena,Café,Neiva,710,0,4843433
+MT00560,2026-07-21,Neiva–Cali,Carga seca,Neiva,310,0,1364447
+MT00561,2025-06-30,Neiva–Bogotá,Carga seca,Pitalito,380,0,2458843
+MT00562,2025-09-26,Neiva–Medellín,Café,Neiva,460,0,2493704
+MT00563,2026-03-08,Neiva–Cali,Paquetería,Neiva,310,0,1636731
+MT00564,2026-10-09,Neiva–Cali,Carga seca,Neiva,310,0,1805733
+MT00565,2025-03-24,Neiva–Cartagena,Carga seca,Neiva,710,0,3528154
+MT00566,2025-05-05,Neiva–Bogotá,Café,Pitalito,380,0,2503876
+MT00567,2025-06-04,Neiva–Bogotá,Café,Garzón,380,0,2229751
+MT00568,2026-02-12,Neiva–Cartagena,Carga seca,Neiva,710,67,4548679
+MT00569,2026-09-10,Neiva–Bogotá,Café,Neiva,380,0,2063103
+MT00570,2025-11-13,Neiva–Medellín,Carga seca,Pitalito,460,0,2653167
+MT00571,2025-07-16,Pitalito–Neiva,Café,Neiva,130,0,886767
+MT00572,2025-11-27,Neiva–Bogotá,Carga seca,Neiva,380,192,2252150
+MT00573,2025-01-19,Neiva–Medellín,Carga seca,Neiva,460,0,2756214
+MT00574,2026-09-13,Pitalito–Neiva,Carga seca,Neiva,130,0,664674
+MT00575,2025-12-31,Neiva–Bogotá,Paquetería,Pitalito,380,119,2324439
+MT00576,2025-09-18,Neiva–Cali,Café,Pitalito,310,0,2129667
+MT00577,2025-10-04,Neiva–Bogotá,Carga seca,Neiva,380,0,2277235
+MT00578,2026-10-06,Neiva–Bogotá,Paquetería,Neiva,380,0,1844993
+MT00579,2025-02-11,Neiva–Cali,Paquetería,Neiva,310,0,1547933
+MT00580,2026-08-22,Pitalito–Neiva,Paquetería,Pitalito,130,0,567254
+MT00581,2025-12-07,Neiva–Medellín,Café,Garzón,460,0,2570399
+MT00582,2025-07-31,Pitalito–Neiva,Carga seca,Neiva,130,0,797662
+MT00583,2025-08-07,Neiva–Medellín,Carga seca,Neiva,460,0,2979965
+MT00584,2025-03-20,Neiva–Bogotá,Paquetería,Neiva,380,0,1754876
+MT00585,2025-12-15,Neiva–Bogotá,Café,Neiva,380,232,2486952
+MT00586,2025-10-28,Neiva–Medellín,Carga seca,Neiva,460,105,1985626
+MT00587,2026-01-05,Neiva–Cartagena,Carga seca,Neiva,710,65,4170013
+MT00588,2025-07-20,Neiva–Cartagena,Carga seca,Neiva,710,0,3231415
+MT00589,2026-08-30,Neiva–Medellín,Café,Neiva,460,0,2387220
+MT00590,2026-05-09,Pitalito–Neiva,Café,Neiva,130,0,883761
+MT00591,2026-05-19,Neiva–Bogotá,Café,Neiva,380,0,2651547
+MT00592,2025-04-20,Neiva–Bogotá,Café,Neiva,380,0,1863133
+MT00593,2025-11-27,Neiva–Bogotá,Carga seca,Neiva,380,0,1954420
+MT00594,2026-07-17,Neiva–Bogotá,Carga seca,Pitalito,380,127,2081996
+MT00595,2026-09-03,Neiva–Cali,Carga seca,Pitalito,310,0,1862477
+MT00596,2025-08-29,Neiva–Bogotá,Café,Pitalito,380,0,2153350
+MT00597,2025-10-17,Neiva–Cartagena,Café,Neiva,710,0,4984442
+MT00598,2025-04-27,Neiva–Medellín,Café,Neiva,460,0,2742820
+MT00599,2025-06-11,Neiva–Bogotá,Carga seca,Neiva,380,0,1820227
+MT00600,2025-12-22,Neiva–Cali,Paquetería,Pitalito,310,0,1957596
+MT00601,2026-05-15,Neiva–Cali,Carga seca,Neiva,310,0,1672924
+MT00602,2025-01-04,Pitalito–Neiva,Café,Neiva,130,0,768467
+MT00603,2025-11-10,Neiva–Cali,Carga seca,Neiva,310,112,1705948
+MT00604,2025-01-13,Neiva–Cartagena,Café,Neiva,710,0,4496867
+MT00605,2026-10-18,Neiva–Bogotá,Carga seca,Neiva,380,0,2000664
+MT00606,2025-03-10,Neiva–Cali,Paquetería,Neiva,310,0,1405306
+MT00607,2025-02-24,Neiva–Cali,Carga seca,Neiva,310,0,1687423
+MT00608,2025-09-24,Pitalito–Neiva,Café,Neiva,130,42,828898
+MT00609,2026-06-04,Neiva–Bogotá,Café,Pitalito,380,209,2019803
+MT00610,2026-10-31,Neiva–Medellín,Café,Neiva,460,214,2302537
+MT00611,2026-08-23,Neiva–Medellín,Paquetería,Pitalito,460,0,2914291
+MT00612,2026-04-28,Neiva–Medellín,Carga seca,Neiva,460,0,2027900
+MT00613,2025-11-10,Neiva–Medellín,Café,Garzón,460,157,2702987
+MT00614,2025-08-15,Neiva–Bogotá,Carga seca,Neiva,380,0,2179816
+MT00615,2026-05-23,Neiva–Bogotá,Café,Neiva,380,0,2414888
+MT00616,2026-08-02,Neiva–Cali,Carga seca,Neiva,310,0,1623869
+MT00617,2026-03-17,Pitalito–Neiva,Carga seca,Neiva,130,0,671460
+MT00618,2025-07-16,Pitalito–Neiva,Café,Neiva,130,0,841502
+MT00619,2026-03-12,Neiva–Medellín,Paquetería,Garzón,460,0,2392516
+MT00620,2026-08-23,Neiva–Bogotá,Carga seca,Neiva,380,0,1822699
+MT00621,2025-10-22,Neiva–Cali,Café,Neiva,310,0,1884110
+MT00622,2025-07-11,Neiva–Cali,Carga seca,Neiva,310,0,1344012
+MT00623,2025-05-10,Neiva–Cali,Carga seca,Garzón,310,0,1881194
+MT00624,2026-04-23,Neiva–Cali,Paquetería,Neiva,310,0,1359703
+MT00625,2026-04-04,Neiva–Cartagena,Carga seca,Neiva,710,186,3981015
+MT00626,2025-02-05,Neiva–Bogotá,Paquetería,Neiva,380,216,2135558
+MT00627,2025-07-09,Neiva–Cali,Carga seca,Neiva,310,0,1422500
+MT00628,2025-04-13,Pitalito–Neiva,Café,Neiva,130,0,742733
+MT00629,2025-01-12,Pitalito–Neiva,Paquetería,Neiva,130,0,705518
+MT00630,2025-12-22,Neiva–Cali,Paquetería,Neiva,310,98,1932653
+MT00631,2026-05-11,Pitalito–Neiva,Café,Neiva,130,0,857023
+MT00632,2026-07-04,Neiva–Medellín,Café,Neiva,460,0,3012329
+MT00633,2026-06-04,Pitalito–Neiva,Carga seca,Neiva,130,0,819260
+MT00634,2025-01-24,Neiva–Medellín,Paquetería,Neiva,460,0,2216717
+MT00635,2025-08-20,Neiva–Medellín,Café,Neiva,460,0,2497615
+MT00636,2026-03-07,Neiva–Bogotá,Café,Neiva,380,0,2629691
+MT00637,2026-03-12,Neiva–Cali,Carga seca,Pitalito,310,136,1591406
+MT00638,2025-02-11,Neiva–Cartagena,Café,Neiva,710,198,4600222
+MT00639,2025-11-23,Neiva–Bogotá,Café,Pitalito,380,0,1911770
+MT00640,2026-10-10,Neiva–Bogotá,Paquetería,Garzón,380,0,2351898
+MT00641,2025-07-17,Neiva–Cartagena,Carga seca,Pitalito,710,88,3177544
+MT00642,2026-04-17,Neiva–Bogotá,Café,Neiva,380,0,1868591
+MT00643,2026-09-02,Neiva–Cartagena,Café,Neiva,710,46,4524609
+MT00644,2026-03-05,Pitalito–Neiva,Café,Neiva,130,0,871302
+MT00645,2025-06-22,Neiva–Cali,Café,Neiva,310,0,2052315
+MT00646,2026-03-07,Neiva–Cartagena,Carga seca,Pitalito,710,0,4235457
+MT00647,2025-12-28,Neiva–Cali,Café,Neiva,310,0,1497220
+MT00648,2026-09-17,Neiva–Cartagena,Café,Pitalito,710,0,4220510
+MT00649,2025-04-19,Neiva–Bogotá,Carga seca,Garzón,380,0,1706273
+MT00650,2026-09-23,Pitalito–Neiva,Café,Neiva,130,0,728403
+MT00651,2025-07-03,Neiva–Medellín,Carga seca,Neiva,460,0,2466906
+MT00652,2026-03-14,Neiva–Cartagena,Carga seca,Neiva,710,126,4218797
+MT00653,2025-07-31,Neiva–Cartagena,Paquetería,Neiva,710,0,4460638
+MT00654,2025-09-03,Neiva–Cali,Paquetería,Neiva,310,132,1881226
+MT00655,2025-02-17,Neiva–Bogotá,Carga seca,Neiva,380,0,1806083
+MT00656,2025-05-23,Neiva–Cali,Paquetería,Neiva,310,0,1987619
+MT00657,2026-10-20,Neiva–Bogotá,Café,Pitalito,380,0,2138349
+MT00658,2025-03-21,Neiva–Bogotá,Café,Neiva,380,0,2204768
+MT00659,2025-04-21,Neiva–Bogotá,Café,Neiva,380,0,2457802
+MT00660,2025-01-27,Neiva–Cali,Café,Neiva,310,33,1969085
+MT00661,2025-01-17,Neiva–Cali,Carga seca,Neiva,310,0,1582409
+MT00662,2026-06-25,Neiva–Bogotá,Carga seca,Pitalito,380,0,1819388
+MT00663,2025-06-21,Neiva–Bogotá,Café,Pitalito,380,0,1981500
+MT00664,2025-08-14,Neiva–Medellín,Carga seca,Pitalito,460,0,2806221
+MT00665,2026-04-16,Neiva–Cartagena,Carga seca,Neiva,710,80,4602342
+MT00666,2026-08-15,Neiva–Cali,Paquetería,Neiva,310,104,1342128
+MT00667,2025-10-14,Neiva–Cartagena,Paquetería,Garzón,710,0,3485911
+MT00668,2025-07-19,Neiva–Bogotá,Carga seca,Neiva,380,0,2032031
+MT00669,2025-10-31,Pitalito–Neiva,Carga seca,Neiva,130,0,714854
+MT00670,2026-06-28,Neiva–Bogotá,Café,Neiva,380,0,2358619
+MT00671,2026-06-27,Neiva–Medellín,Café,Neiva,460,69,2454840
+MT00672,2025-01-27,Neiva–Cartagena,Café,Garzón,710,50,3607317
+MT00673,2025-01-19,Neiva–Cartagena,Carga seca,Garzón,710,88,3123923
+MT00674,2026-03-29,Neiva–Bogotá,Café,Neiva,380,0,2633519
+MT00675,2025-04-26,Neiva–Medellín,Carga seca,Neiva,460,0,1982800
+MT00676,2025-09-10,Neiva–Medellín,Café,Neiva,460,0,2424568
+MT00677,2026-04-03,Neiva–Medellín,Café,Pitalito,460,119,3319685
+MT00678,2026-04-19,Pitalito–Neiva,Café,Neiva,130,0,662680
+MT00679,2026-07-10,Pitalito–Neiva,Café,Pitalito,130,0,662776
+MT00680,2025-04-25,Neiva–Bogotá,Café,Neiva,380,0,2091691
+MT00681,2026-05-02,Neiva–Cali,Café,Neiva,310,0,2181420
+MT00682,2026-10-30,Neiva–Cali,Café,Pitalito,310,156,1767253
+MT00683,2025-08-06,Neiva–Medellín,Paquetería,Neiva,460,0,2550290
+MT00684,2025-02-03,Neiva–Cali,Café,Neiva,310,0,2256573
+MT00685,2025-07-13,Neiva–Cartagena,Carga seca,Neiva,710,0,3275727
+MT00686,2025-12-23,Neiva–Cali,Café,Neiva,310,32,2052191
+MT00687,2025-02-13,Neiva–Cartagena,Carga seca,Neiva,710,0,3502097
+MT00688,2026-03-07,Neiva–Medellín,Café,Neiva,460,179,2801006
+MT00689,2026-01-01,Neiva–Cali,Paquetería,Neiva,310,0,1917240
+MT00690,2026-01-06,Neiva–Medellín,Carga seca,Garzón,460,0,2380517
+MT00691,2026-07-11,Neiva–Cartagena,Carga seca,Garzón,710,141,3330935
+MT00692,2026-09-12,Pitalito–Neiva,Carga seca,Neiva,130,0,711272
+MT00693,2025-11-01,Neiva–Cali,Café,Garzón,310,0,1761069
+MT00694,2026-07-27,Pitalito–Neiva,Café,Neiva,130,0,631540
+MT00695,2026-06-18,Neiva–Cartagena,Carga seca,Neiva,710,0,3990486
+MT00696,2025-06-04,Neiva–Bogotá,Carga seca,Neiva,380,0,2427493
+MT00697,2026-10-11,Neiva–Cali,Carga seca,Pitalito,310,0,1568921
+MT00698,2026-10-22,Neiva–Bogotá,Paquetería,Neiva,380,0,2356368
+MT00699,2026-09-29,Neiva–Bogotá,Café,Neiva,380,208,2164603
+MT00700,2025-04-04,Neiva–Bogotá,Carga seca,Neiva,380,0,1844010
+MT00701,2025-03-15,Neiva–Cali,Carga seca,Neiva,310,123,1818505
+MT00702,2025-05-16,Neiva–Cali,Café,Pitalito,310,48,2032975
+MT00703,2025-08-05,Pitalito–Neiva,Café,Neiva,130,235,867910
+MT00704,2025-08-23,Neiva–Bogotá,Paquetería,Neiva,380,0,2006455
+MT00705,2026-05-19,Pitalito–Neiva,Café,Pitalito,130,0,802316
+MT00706,2026-07-22,Pitalito–Neiva,Carga seca,Neiva,130,0,581875
+MT00707,2026-01-27,Neiva–Bogotá,Café,Neiva,380,0,2236675
+MT00708,2025-10-04,Neiva–Medellín,Carga seca,Neiva,460,0,2213326
+MT00709,2026-09-09,Neiva–Cartagena,Café,Garzón,710,147,5099079
+MT00710,2026-05-30,Neiva–Bogotá,Carga seca,Neiva,380,84,1656475
+MT00711,2025-09-18,Neiva–Bogotá,Café,Neiva,380,0,1830398
+MT00712,2026-02-24,Neiva–Cali,Café,Garzón,310,0,1653185
+MT00713,2026-06-09,Neiva–Cartagena,Café,Neiva,710,0,4066059
+MT00714,2026-09-10,Neiva–Medellín,Paquetería,Neiva,460,0,2255709
+MT00715,2026-05-31,Neiva–Cali,Carga seca,Neiva,310,0,1787862
+MT00716,2026-08-08,Neiva–Medellín,Carga seca,Pitalito,460,0,2938565
+MT00717,2025-11-29,Neiva–Cartagena,Paquetería,Neiva,710,50,3645640
+MT00718,2025-10-17,Neiva–Cartagena,Carga seca,Neiva,710,139,4068645
+MT00719,2026-02-04,Neiva–Cali,Café,Neiva,310,239,1965358
+MT00720,2025-10-10,Neiva–Bogotá,Café,Neiva,380,0,2505168
+MT00721,2025-02-06,Pitalito–Neiva,Café,Neiva,130,0,937432
+MT00722,2026-07-15,Neiva–Bogotá,Carga seca,Neiva,380,0,2084374
+MT00723,2026-01-17,Neiva–Bogotá,Carga seca,Neiva,380,0,2020155
+MT00724,2025-04-27,Neiva–Bogotá,Café,Pitalito,380,205,2058410
+MT00725,2026-08-09,Pitalito–Neiva,Café,Neiva,130,0,904888
+MT00726,2025-08-30,Neiva–Bogotá,Café,Pitalito,380,0,2542745
+MT00727,2025-08-22,Neiva–Bogotá,Carga seca,Neiva,380,102,2360605
+MT00728,2026-06-20,Pitalito–Neiva,Café,Neiva,130,0,884196
+MT00729,2025-04-19,Neiva–Bogotá,Café,Neiva,380,96,2040771
+MT00730,2026-10-17,Pitalito–Neiva,Café,Neiva,130,0,712294
+MT00731,2026-09-19,Neiva–Cartagena,Carga seca,Neiva,710,0,3649810
+MT00732,2025-09-12,Neiva–Bogotá,Carga seca,Neiva,380,121,2069434
+MT00733,2025-01-12,Neiva–Medellín,Paquetería,Neiva,460,0,2201953
+MT00734,2025-04-11,Neiva–Bogotá,Café,Garzón,380,0,1847073
+MT00735,2026-05-24,Neiva–Medellín,Café,Pitalito,460,80,2256028
+MT00736,2026-06-02,Neiva–Medellín,Carga seca,Neiva,460,0,2554209
+MT00737,2026-04-03,Neiva–Bogotá,Carga seca,Neiva,380,0,2317776
+MT00738,2025-09-05,Neiva–Medellín,Paquetería,Neiva,460,0,2581913
+MT00739,2026-01-11,Neiva–Bogotá,Café,Neiva,380,159,2398360
+MT00740,2025-01-03,Neiva–Bogotá,Café,Neiva,380,0,2337047
+MT00741,2025-01-07,Neiva–Cali,Carga seca,Neiva,310,220,1936260
+MT00742,2025-11-14,Neiva–Medellín,Carga seca,Neiva,460,53,2009986
+MT00743,2025-05-08,Neiva–Bogotá,Café,Neiva,380,0,1837153
+MT00744,2026-09-19,Neiva–Cali,Café,Neiva,310,0,1808988
+MT00745,2025-10-01,Neiva–Medellín,Café,Neiva,460,42,2311321
+MT00746,2025-07-15,Neiva–Cali,Café,Pitalito,310,0,1810020
+MT00747,2026-03-28,Neiva–Medellín,Paquetería,Neiva,460,0,2964408
+MT00748,2026-04-01,Neiva–Bogotá,Carga seca,Garzón,380,0,1866397
+MT00749,2025-01-27,Neiva–Bogotá,Carga seca,Neiva,380,0,1905916
+MT00750,2026-06-11,Pitalito–Neiva,Carga seca,Neiva,130,0,801057
+MT00751,2026-08-12,Pitalito–Neiva,Carga seca,Garzón,130,0,832201
+MT00752,2025-04-10,Neiva–Bogotá,Paquetería,Pitalito,380,0,2417195
+MT00753,2025-12-30,Neiva–Cali,Café,Neiva,310,200,1767832
+MT00754,2026-07-18,Neiva–Cali,Carga seca,Garzón,310,215,1343964
+MT00755,2025-12-11,Neiva–Cartagena,Carga seca,Neiva,710,112,3324817
+MT00756,2025-01-19,Neiva–Cartagena,Carga seca,Neiva,710,189,4103266
+MT00757,2025-05-03,Neiva–Cartagena,Café,Neiva,710,216,4162066
+MT00758,2025-09-23,Neiva–Bogotá,Café,Neiva,380,0,2588151
+MT00759,2025-09-15,Neiva–Cali,Café,Neiva,310,0,1851067
+MT00760,2025-05-31,Neiva–Cali,Carga seca,Garzón,310,0,1667855
+MT00761,2026-02-27,Pitalito–Neiva,Paquetería,Neiva,130,65,743314
+MT00762,2025-09-17,Pitalito–Neiva,Café,Neiva,130,0,659431
+MT00763,2026-10-17,Neiva–Medellín,Carga seca,Pitalito,460,0,2020435
+MT00764,2025-07-15,Neiva–Medellín,Carga seca,Neiva,460,0,2248382
+MT00765,2026-02-09,Pitalito–Neiva,Café,Neiva,130,0,736958
+MT00766,2025-12-25,Neiva–Bogotá,Carga seca,Pitalito,380,219,1666026
+MT00767,2025-07-28,Neiva–Cali,Café,Garzón,310,0,1931418
+MT00768,2025-01-13,Neiva–Cartagena,Café,Neiva,710,170,3429516
+MT00769,2025-02-26,Neiva–Bogotá,Paquetería,Pitalito,380,0,2078563
+MT00770,2025-10-01,Neiva–Cali,Café,Pitalito,310,56,2026391
+MT00771,2026-03-06,Neiva–Cali,Carga seca,Neiva,310,0,1811367
+MT00772,2026-03-09,Neiva–Medellín,Café,Neiva,460,0,2819008
+MT00773,2026-02-05,Neiva–Bogotá,Carga seca,Neiva,380,0,2384928
+MT00774,2026-09-29,Neiva–Medellín,Café,Neiva,460,0,2300885
+MT00775,2026-04-29,Neiva–Cali,Carga seca,Neiva,310,138,1855450
+MT00776,2025-12-16,Neiva–Bogotá,Carga seca,Neiva,380,0,1676166
+MT00777,2026-05-01,Pitalito–Neiva,Café,Neiva,130,101,650172
+MT00778,2025-08-24,Neiva–Medellín,Carga seca,Neiva,460,0,2047271
+MT00779,2025-03-16,Neiva–Bogotá,Café,Neiva,380,0,2390983
+MT00780,2025-11-15,Neiva–Medellín,Carga seca,Neiva,460,0,2951592
+MT00781,2026-02-22,Neiva–Cartagena,Carga seca,Neiva,710,0,4192199
+MT00782,2025-02-22,Neiva–Cali,Paquetería,Neiva,310,195,1658831
+MT00783,2026-01-24,Neiva–Medellín,Café,Pitalito,460,0,2283336
+MT00784,2026-02-20,Neiva–Bogotá,Carga seca,Pitalito,380,0,2264903
+MT00785,2025-12-01,Neiva–Bogotá,Carga seca,Neiva,380,0,2417737
+MT00786,2025-11-23,Neiva–Cali,Café,Neiva,310,225,2216162
+MT00787,2025-03-30,Neiva–Cartagena,Carga seca,Garzón,710,176,4254572
+MT00788,2026-02-26,Pitalito–Neiva,Paquetería,Neiva,130,0,621232
+MT00789,2026-08-18,Pitalito–Neiva,Paquetería,Neiva,130,0,812772
+MT00790,2025-08-02,Neiva–Bogotá,Carga seca,Pitalito,380,0,1799157
+MT00791,2025-05-26,Pitalito–Neiva,Carga seca,Pitalito,130,239,600523
+MT00792,2025-09-17,Neiva–Cali,Café,Neiva,310,0,2034515
+MT00793,2026-08-24,Neiva–Medellín,Café,Pitalito,460,141,2278606
+MT00794,2026-07-22,Neiva–Medellín,Carga seca,Garzón,460,0,2384568
+MT00795,2026-02-05,Neiva–Medellín,Café,Neiva,460,0,2546359
+MT00796,2025-02-26,Neiva–Cali,Paquetería,Neiva,310,0,1718823
+MT00797,2026-04-20,Neiva–Bogotá,Carga seca,Neiva,380,0,1797689
+MT00798,2025-09-20,Neiva–Cali,Paquetería,Neiva,310,126,1519478
+MT00799,2025-02-07,Neiva–Bogotá,Café,Neiva,380,0,2525722
+MT00800,2026-03-12,Pitalito–Neiva,Paquetería,Neiva,130,0,748447
+MT00801,2026-08-31,Neiva–Medellín,Carga seca,Neiva,460,41,2327236
+MT00802,2026-08-02,Neiva–Cali,Paquetería,Garzón,310,0,1637379
+MT00803,2025-09-12,Neiva–Bogotá,Café,Pitalito,380,0,2386447
+MT00804,2026-01-24,Neiva–Medellín,Café,Pitalito,460,0,2621121
+MT00805,2026-01-30,Neiva–Cali,Paquetería,Neiva,310,0,1368613
+MT00806,2025-07-18,Pitalito–Neiva,Carga seca,Neiva,130,0,572037
+MT00807,2026-03-24,Neiva–Cali,Café,Neiva,310,0,1623192
+MT00808,2025-10-19,Neiva–Bogotá,Paquetería,Pitalito,380,0,1924394
+MT00809,2025-02-11,Neiva–Cali,Café,Neiva,310,0,2227784
+MT00810,2025-06-28,Neiva–Bogotá,Carga seca,Neiva,380,0,2259826
+MT00811,2026-04-25,Neiva–Medellín,Café,Neiva,460,0,2315001
+MT00812,2025-06-29,Neiva–Cali,Paquetería,Neiva,310,0,1525474
+MT00813,2026-01-05,Pitalito–Neiva,Carga seca,Neiva,130,0,643182
+MT00814,2025-12-08,Neiva–Cali,Café,Neiva,310,193,1576538
+MT00815,2026-10-09,Neiva–Cali,Carga seca,Garzón,310,0,1418155
+MT00816,2025-09-07,Neiva–Bogotá,Paquetería,Neiva,380,0,2033506
+MT00817,2025-05-15,Pitalito–Neiva,Carga seca,Pitalito,130,0,688737
+MT00818,2025-10-15,Neiva–Bogotá,Carga seca,Neiva,380,0,2305781
+MT00819,2026-05-16,Pitalito–Neiva,Carga seca,Neiva,130,0,579156
+MT00820,2025-03-02,Neiva–Cali,Café,Garzón,310,0,1961593
+MT00821,2026-06-18,Pitalito–Neiva,Carga seca,Pitalito,130,0,614876
+MT00822,2026-09-10,Neiva–Cartagena,Carga seca,Pitalito,710,194,4393240
+MT00823,2026-03-25,Neiva–Bogotá,Paquetería,Pitalito,380,0,2034300
+MT00824,2025-08-25,Pitalito–Neiva,Paquetería,Neiva,130,0,695124
+MT00825,2025-05-13,Pitalito–Neiva,Café,Neiva,130,134,786317
+MT00826,2026-08-01,Neiva–Cali,Carga seca,Neiva,310,0,1909615
+MT00827,2026-10-05,Neiva–Bogotá,Café,Pitalito,380,106,2222749
+MT00828,2026-08-30,Neiva–Cali,Café,Neiva,310,194,2140121
+MT00829,2025-05-13,Neiva–Bogotá,Carga seca,Neiva,380,0,2354542
+MT00830,2026-05-18,Neiva–Cali,Café,Neiva,310,0,1700593
+MT00831,2026-05-02,Neiva–Medellín,Café,Neiva,460,0,3225792
+MT00832,2026-10-21,Neiva–Cali,Café,Neiva,310,0,2229777
+MT00833,2026-05-10,Neiva–Cali,Café,Neiva,310,0,1772422
+MT00834,2026-01-03,Pitalito–Neiva,Café,Garzón,130,0,833021
+MT00835,2025-05-16,Neiva–Cali,Café,Neiva,310,0,1763568
+MT00836,2025-11-21,Pitalito–Neiva,Carga seca,Neiva,130,0,564894
+MT00837,2025-06-13,Neiva–Bogotá,Café,Neiva,380,0,2545385
+MT00838,2025-07-25,Pitalito–Neiva,Carga seca,Neiva,130,141,754518
+MT00839,2026-03-24,Neiva–Medellín,Paquetería,Neiva,460,0,2833823
+MT00840,2025-09-16,Neiva–Medellín,Café,Garzón,460,0,2610616
+MT00841,2026-07-29,Neiva–Bogotá,Carga seca,Pitalito,380,0,2082505
+MT00842,2025-10-24,Neiva–Medellín,Carga seca,Pitalito,460,0,2914678
+MT00843,2025-11-26,Neiva–Bogotá,Café,Neiva,380,0,2571211
+MT00844,2026-06-29,Pitalito–Neiva,Paquetería,Neiva,130,0,625325
+MT00845,2025-05-10,Neiva–Cartagena,Café,Neiva,710,0,3915699
+MT00846,2025-04-08,Pitalito–Neiva,Carga seca,Neiva,130,0,574253
+MT00847,2026-09-29,Neiva–Medellín,Carga seca,Neiva,460,0,2125157
+MT00848,2025-06-12,Pitalito–Neiva,Café,Pitalito,130,0,840795
+MT00849,2025-02-26,Neiva–Cali,Carga seca,Neiva,310,0,1929157
+MT00850,2025-10-02,Neiva–Bogotá,Café,Neiva,380,0,2289093
+MT00851,2025-05-04,Neiva–Bogotá,Café,Neiva,380,0,2218724
+MT00852,2025-02-06,Neiva–Cali,Carga seca,Neiva,310,84,1880743
+MT00853,2025-07-11,Neiva–Cali,Café,Neiva,310,0,1673933
+MT00854,2025-03-22,Neiva–Medellín,Paquetería,Neiva,460,0,2477497
+MT00855,2025-04-14,Pitalito–Neiva,Carga seca,Neiva,130,0,643040
+MT00856,2026-08-08,Neiva–Medellín,Café,Neiva,460,174,2445674
+MT00857,2026-02-27,Neiva–Bogotá,Paquetería,Neiva,380,0,2154555
+MT00858,2025-02-20,Neiva–Bogotá,Carga seca,Pitalito,380,0,2246496
+MT00859,2026-08-27,Pitalito–Neiva,Café,Pitalito,130,0,842791
+MT00860,2026-09-30,Pitalito–Neiva,Paquetería,Pitalito,130,0,785260
+MT00861,2025-04-05,Neiva–Bogotá,Paquetería,Garzón,380,66,2201270
+MT00862,2025-08-13,Neiva–Cali,Carga seca,Pitalito,310,0,1824187
+MT00863,2026-06-27,Pitalito–Neiva,Café,Garzón,130,0,806734
+MT00864,2025-11-06,Neiva–Cartagena,Carga seca,Neiva,710,42,4544022
+MT00865,2025-05-05,Neiva–Cartagena,Paquetería,Neiva,710,33,3566546
+MT00866,2026-04-19,Neiva–Cali,Café,Neiva,310,0,1862412
+MT00867,2026-02-13,Neiva–Medellín,Café,Neiva,460,0,3236421
+MT00868,2026-07-20,Pitalito–Neiva,Café,Neiva,130,0,799579
+MT00869,2025-08-14,Pitalito–Neiva,Café,Neiva,130,0,924218
+MT00870,2025-08-15,Neiva–Cartagena,Carga seca,Neiva,710,116,3726929
+MT00871,2025-11-21,Neiva–Medellín,Carga seca,Neiva,460,0,2653867
+MT00872,2025-03-31,Neiva–Medellín,Café,Neiva,460,0,2627899
+MT00873,2025-09-12,Neiva–Cali,Café,Garzón,310,210,2168553
+MT00874,2025-07-10,Pitalito–Neiva,Carga seca,Pitalito,130,0,819751
+MT00875,2025-01-16,Neiva–Cartagena,Carga seca,Pitalito,710,0,3730268
+MT00876,2026-05-26,Pitalito–Neiva,Café,Neiva,130,0,812450
+MT00877,2026-04-25,Neiva–Cartagena,Carga seca,Neiva,710,63,3412872
+MT00878,2025-10-25,Neiva–Medellín,Café,Neiva,460,203,2563779
+MT00879,2026-04-28,Neiva–Cartagena,Carga seca,Neiva,710,176,3940166
+MT00880,2025-05-19,Neiva–Cali,Café,Garzón,310,0,2252090
+MT00881,2026-01-30,Neiva–Medellín,Carga seca,Neiva,460,0,2734232
+MT00882,2025-03-02,Neiva–Medellín,Paquetería,Neiva,460,61,2349993
+MT00883,2025-09-10,Neiva–Medellín,Paquetería,Neiva,460,66,2793421
+MT00884,2025-07-18,Neiva–Bogotá,Café,Neiva,380,0,2418306
+MT00885,2025-09-27,Neiva–Cali,Carga seca,Neiva,310,0,1859711
+MT00886,2026-06-22,Pitalito–Neiva,Paquetería,Neiva,130,0,684432
+MT00887,2025-07-14,Pitalito–Neiva,Café,Neiva,130,0,642474
+MT00888,2026-06-26,Neiva–Cartagena,Carga seca,Neiva,710,162,3090197
+MT00889,2025-03-04,Neiva–Medellín,Carga seca,Neiva,460,29,2561085
+MT00890,2025-02-05,Neiva–Cali,Carga seca,Neiva,310,175,2014071
+MT00891,2026-06-16,Neiva–Cali,Café,Pitalito,310,183,2033015
+MT00892,2026-05-21,Pitalito–Neiva,Café,Neiva,130,28,741909
+MT00893,2026-06-15,Neiva–Bogotá,Café,Pitalito,380,116,1963468
+MT00894,2025-06-12,Neiva–Cali,Paquetería,Neiva,310,0,2002949
+MT00895,2025-09-05,Neiva–Bogotá,Carga seca,Neiva,380,0,2077172
+MT00896,2026-07-20,Neiva–Bogotá,Café,Garzón,380,0,2618150
+MT00897,2026-04-29,Neiva–Cali,Café,Neiva,310,25,2109264
+MT00898,2025-06-10,Neiva–Bogotá,Carga seca,Neiva,380,0,2292329
+MT00899,2026-10-02,Pitalito–Neiva,Café,Neiva,130,0,651093
+MT00900,2026-09-07,Neiva–Bogotá,Café,Neiva,380,0,2733582
+MT00901,2025-09-26,Neiva–Bogotá,Café,Pitalito,380,195,1872430
+MT00902,2026-05-08,Neiva–Cali,Café,Neiva,310,238,1700961
+MT00903,2025-09-14,Neiva–Cali,Paquetería,Pitalito,310,0,1374023
+MT00904,2025-03-09,Neiva–Cali,Café,Neiva,310,0,1652080
+MT00905,2026-10-18,Neiva–Bogotá,Paquetería,Neiva,380,0,2267895
+MT00906,2025-09-03,Neiva–Cartagena,Carga seca,Pitalito,710,0,4177783
+MT00907,2026-07-19,Neiva–Medellín,Paquetería,Neiva,460,0,2326079
+MT00908,2026-07-05,Neiva–Bogotá,Café,Neiva,380,0,2098382
+MT00909,2025-11-20,Neiva–Bogotá,Café,Neiva,380,47,2573026
+MT00910,2026-06-06,Neiva–Bogotá,Café,Neiva,380,0,2070569
+MT00911,2026-03-12,Neiva–Bogotá,Café,Neiva,380,34,2313767
+MT00912,2025-10-01,Neiva–Cartagena,Café,Neiva,710,91,4367626
+MT00913,2026-01-31,Neiva–Cartagena,Café,Garzón,710,212,4764192
+MT00914,2026-08-08,Pitalito–Neiva,Carga seca,Pitalito,130,0,747725
+MT00915,2026-02-18,Neiva–Medellín,Carga seca,Neiva,460,0,1995776
+MT00916,2026-05-01,Neiva–Medellín,Café,Neiva,460,0,2686624
+MT00917,2025-11-16,Neiva–Bogotá,Paquetería,Neiva,380,70,1772823
+MT00918,2025-01-07,Neiva–Medellín,Carga seca,Pitalito,460,0,2354651
+MT00919,2026-06-28,Pitalito–Neiva,Carga seca,Neiva,130,0,573282
+MT00920,2026-10-09,Neiva–Bogotá,Café,Neiva,380,0,2217874
+MT00921,2025-05-25,Neiva–Cali,Café,Pitalito,310,150,1997648
+MT00922,2026-08-29,Neiva–Bogotá,Carga seca,Neiva,380,0,1886165
+MT00923,2026-03-17,Neiva–Cali,Café,Neiva,310,0,1606731
+MT00924,2025-07-19,Neiva–Cali,Carga seca,Neiva,310,0,1795507
+MT00925,2025-07-09,Neiva–Cartagena,Carga seca,Pitalito,710,102,3225671
+MT00926,2026-08-07,Neiva–Cartagena,Café,Neiva,710,0,4732542
+MT00927,2026-02-05,Neiva–Bogotá,Café,Neiva,380,192,2035155
+MT00928,2025-08-30,Neiva–Medellín,Paquetería,Garzón,460,0,2155432
+MT00929,2026-04-29,Pitalito–Neiva,Carga seca,Pitalito,130,0,595828
+MT00930,2025-10-22,Neiva–Medellín,Café,Pitalito,460,0,2939994
+MT00931,2025-07-29,Pitalito–Neiva,Paquetería,Pitalito,130,148,673771
+MT00932,2026-05-10,Neiva–Cali,Paquetería,Neiva,310,66,1363357
+MT00933,2025-08-22,Pitalito–Neiva,Carga seca,Neiva,130,0,712929
+MT00934,2026-05-11,Neiva–Cali,Carga seca,Neiva,310,0,1743829
+MT00935,2025-03-25,Neiva–Cali,Carga seca,Neiva,310,0,1477585
+MT00936,2025-12-24,Pitalito–Neiva,Carga seca,Neiva,130,0,675908
+MT00937,2025-05-22,Neiva–Cali,Carga seca,Neiva,310,39,1966692
+MT00938,2026-04-07,Neiva–Bogotá,Café,Neiva,380,0,2642241
+MT00939,2026-05-17,Neiva–Cartagena,Café,Neiva,710,122,4967863
+MT00940,2025-03-16,Neiva–Cali,Paquetería,Neiva,310,0,1860182
+MT00941,2025-11-24,Neiva–Cartagena,Café,Neiva,710,0,3815159
+MT00942,2026-04-12,Neiva–Bogotá,Café,Neiva,380,0,2078103
+MT00943,2025-12-10,Neiva–Medellín,Carga seca,Garzón,460,238,2311352
+MT00944,2025-09-12,Neiva–Bogotá,Café,Pitalito,380,0,1923751
+MT00945,2026-03-20,Neiva–Bogotá,Carga seca,Pitalito,380,0,2464115
+MT00946,2025-09-14,Neiva–Cartagena,Café,Neiva,710,0,4542233
+MT00947,2025-03-11,Neiva–Cali,Café,Garzón,310,0,1512909
+MT00948,2025-10-29,Pitalito–Neiva,Café,Neiva,130,0,671734
+MT00949,2025-01-31,Neiva–Bogotá,Café,Neiva,380,0,2316882
+MT00950,2025-07-03,Pitalito–Neiva,Café,Neiva,130,0,807319
+MT00951,2025-04-02,Neiva–Cali,Carga seca,Neiva,310,0,1379514
+MT00952,2026-05-10,Pitalito–Neiva,Café,Neiva,130,99,906054
+MT00953,2026-03-01,Neiva–Bogotá,Café,Neiva,380,0,2618029
+MT00954,2026-10-25,Neiva–Medellín,Carga seca,Neiva,460,0,2760458
+MT00955,2026-10-07,Neiva–Medellín,Carga seca,Pitalito,460,44,2200035
+MT00956,2026-04-24,Neiva–Bogotá,Café,Pitalito,380,123,2679377
+MT00957,2026-05-11,Pitalito–Neiva,Carga seca,Pitalito,130,0,661533
+MT00958,2025-04-08,Neiva–Medellín,Café,Neiva,460,0,3262250
+MT00959,2026-03-02,Neiva–Bogotá,Paquetería,Neiva,380,45,2351022
+MT00960,2026-06-28,Neiva–Bogotá,Café,Neiva,380,0,2004603
+MT00961,2026-02-16,Neiva–Cali,Café,Neiva,310,175,2089269
+MT00962,2025-11-09,Neiva–Bogotá,Carga seca,Neiva,380,0,1938475
+MT00963,2025-06-06,Neiva–Bogotá,Paquetería,Neiva,380,0,2056600
+MT00964,2025-08-29,Neiva–Medellín,Café,Neiva,460,0,3176600
+MT00965,2025-11-17,Neiva–Cartagena,Café,Neiva,710,161,4852323
+MT00966,2025-03-27,Neiva–Cali,Paquetería,Neiva,310,0,1618545
+MT00967,2026-07-11,Pitalito–Neiva,Café,Neiva,130,0,839576
+MT00968,2025-08-29,Neiva–Cali,Carga seca,Neiva,310,29,1671396
+MT00969,2025-04-21,Neiva–Cali,Café,Neiva,310,0,1821319
+MT00970,2025-07-28,Neiva–Cali,Carga seca,Neiva,310,0,1856629
+MT00971,2026-03-07,Neiva–Cali,Café,Neiva,310,0,1715952
+MT00972,2025-01-28,Neiva–Bogotá,Carga seca,Neiva,380,0,1864513
+MT00973,2026-06-09,Pitalito–Neiva,Café,Neiva,130,205,724486
+MT00974,2026-07-20,Neiva–Medellín,Café,Neiva,460,0,3030911
+MT00975,2025-01-22,Neiva–Bogotá,Café,Neiva,380,57,2481907
+MT00976,2025-02-12,Neiva–Medellín,Carga seca,Neiva,460,80,2352884
+MT00977,2026-07-23,Neiva–Bogotá,Café,Neiva,380,0,2162719
+MT00978,2026-01-19,Neiva–Cartagena,Paquetería,Neiva,710,0,3489973
+MT00979,2026-08-25,Neiva–Cartagena,Café,Neiva,710,92,5157561
+MT00980,2025-01-21,Neiva–Cali,Café,Neiva,310,143,1842934
+MT00981,2025-07-26,Pitalito–Neiva,Café,Pitalito,130,0,902405
+MT00982,2026-05-11,Neiva–Medellín,Café,Neiva,460,0,3267573
+MT00983,2025-06-23,Neiva–Medellín,Paquetería,Pitalito,460,0,2988330
+MT00984,2025-07-16,Neiva–Cartagena,Carga seca,Neiva,710,0,3275813
+MT00985,2026-04-24,Neiva–Medellín,Carga seca,Neiva,460,103,2471863
+MT00986,2025-06-30,Neiva–Bogotá,Carga seca,Garzón,380,0,2097565
+MT00987,2025-03-30,Neiva–Medellín,Café,Garzón,460,29,2943721
+MT00988,2025-10-26,Pitalito–Neiva,Carga seca,Garzón,130,0,640124
+MT00989,2026-09-19,Neiva–Cali,Paquetería,Neiva,310,0,1822434
+MT00990,2026-03-26,Neiva–Cali,Café,Neiva,310,68,1764695
+MT00991,2025-05-18,Pitalito–Neiva,Paquetería,Garzón,130,0,786481
+MT00992,2025-08-23,Pitalito–Neiva,Paquetería,Pitalito,130,0,708250
+MT00993,2026-01-21,Neiva–Medellín,Carga seca,Neiva,460,52,1980982
+MT00994,2025-12-28,Neiva–Cartagena,Carga seca,Pitalito,710,0,4447355
+MT00995,2025-11-07,Neiva–Bogotá,Café,Garzón,380,0,1833705
+MT00996,2025-05-04,Neiva–Bogotá,Carga seca,Neiva,380,184,2245558
+MT00997,2025-03-15,Pitalito–Neiva,Café,Pitalito,130,0,659047
+MT00998,2026-04-20,Neiva–Cartagena,Café,Neiva,710,126,4895634
+MT00999,2025-10-04,Neiva–Cali,Café,Neiva,310,0,1833818
+MT01000,2026-10-21,Neiva–Cali,Carga seca,Pitalito,310,0,1827953
+MT01001,2026-04-10,Neiva–Bogotá,Carga seca,Neiva,380,0,2444248
+MT01002,2025-02-10,Pitalito–Neiva,Carga seca,Neiva,130,0,817782
+MT01003,2026-05-03,Neiva–Bogotá,Café,Neiva,380,0,2711962
+MT01004,2025-04-12,Pitalito–Neiva,Café,Neiva,130,0,916409
+MT01005,2025-08-12,Neiva–Bogotá,Carga seca,Neiva,380,82,2314015
+MT01006,2025-06-09,Neiva–Medellín,Carga seca,Neiva,460,0,2487837
+MT01007,2025-05-24,Neiva–Bogotá,Paquetería,Neiva,380,0,1682196
+MT01008,2026-07-13,Neiva–Medellín,Café,Neiva,460,0,2819529
+MT01009,2026-04-21,Neiva–Bogotá,Café,Pitalito,380,192,2569164
+MT01010,2026-07-26,Neiva–Cali,Café,Neiva,310,0,1737199
+MT01011,2026-08-04,Neiva–Bogotá,Paquetería,Neiva,380,0,2468697
+MT01012,2025-12-21,Pitalito–Neiva,Café,Neiva,130,59,834501
+MT01013,2026-06-27,Neiva–Bogotá,Paquetería,Neiva,380,0,2093768
+MT01014,2025-06-03,Neiva–Cartagena,Carga seca,Garzón,710,66,3064375
+MT01015,2025-03-25,Neiva–Medellín,Paquetería,Garzón,460,0,2642594
+MT01016,2025-07-06,Pitalito–Neiva,Café,Neiva,130,0,680622
+MT01017,2026-02-09,Neiva–Cali,Carga seca,Pitalito,310,116,1611181
+MT01018,2026-08-25,Neiva–Cali,Carga seca,Neiva,310,199,1534434
+MT01019,2025-08-09,Pitalito–Neiva,Paquetería,Neiva,130,0,702826
+MT01020,2025-04-29,Neiva–Medellín,Café,Neiva,460,128,2439560
+MT01021,2026-04-23,Pitalito–Neiva,Carga seca,Neiva,130,82,699341
+MT01022,2025-07-08,Neiva–Cali,Café,Neiva,310,0,1812145
+MT01023,2026-01-20,Pitalito–Neiva,Paquetería,Neiva,130,0,827876
+MT01024,2025-09-18,Neiva–Bogotá,Café,Neiva,380,0,2598283
+MT01025,2026-09-20,Neiva–Bogotá,Carga seca,Neiva,380,0,2457767
+MT01026,2026-01-21,Neiva–Cali,Carga seca,Pitalito,310,65,2013194
+MT01027,2025-10-01,Neiva–Cali,Carga seca,Neiva,310,0,1916429
+MT01028,2025-10-20,Neiva–Cali,Carga seca,Pitalito,310,120,1669427
+MT01029,2025-03-14,Neiva–Bogotá,Carga seca,Pitalito,380,0,2337213
+MT01030,2025-11-01,Neiva–Medellín,Café,Pitalito,460,0,2385956
+MT01031,2025-12-08,Pitalito–Neiva,Paquetería,Neiva,130,0,824248
+MT01032,2025-07-01,Neiva–Cali,Carga seca,Neiva,310,135,1436213
+MT01033,2025-11-15,Neiva–Cali,Carga seca,Neiva,310,0,1868503
+MT01034,2026-04-10,Neiva–Cali,Carga seca,Neiva,310,157,1465315
+MT01035,2026-03-03,Neiva–Cali,Carga seca,Pitalito,310,0,1614251
+MT01036,2025-05-31,Neiva–Cali,Café,Neiva,310,0,1902758
+MT01037,2026-01-18,Neiva–Cartagena,Café,Neiva,710,126,4764029
+MT01038,2026-08-05,Neiva–Bogotá,Carga seca,Neiva,380,0,2308981
+MT01039,2025-11-17,Neiva–Cali,Café,Neiva,310,83,1870873
+MT01040,2025-11-03,Pitalito–Neiva,Café,Pitalito,130,0,845357
+MT01041,2025-10-11,Neiva–Bogotá,Carga seca,Neiva,380,0,1720537
+MT01042,2026-05-07,Neiva–Cali,Café,Neiva,310,0,1896542
+MT01043,2026-11-01,Neiva–Medellín,Carga seca,Neiva,460,71,2761127
+MT01044,2026-05-17,Neiva–Bogotá,Carga seca,Neiva,380,0,1999381
+MT01045,2025-08-19,Neiva–Medellín,Carga seca,Neiva,460,0,2967918
+MT01046,2026-09-18,Neiva–Bogotá,Carga seca,Neiva,380,0,2018450
+MT01047,2026-10-07,Neiva–Cali,Paquetería,Neiva,310,0,1902458
+MT01048,2026-03-24,Neiva–Bogotá,Café,Neiva,380,166,2736547
+MT01049,2026-05-25,Neiva–Bogotá,Café,Neiva,380,119,2112757
+MT01050,2026-03-24,Neiva–Cali,Café,Neiva,310,0,1723419
+MT01051,2025-01-01,Neiva–Bogotá,Paquetería,Neiva,380,0,2061921
+MT01052,2026-08-05,Neiva–Bogotá,Paquetería,Neiva,380,0,2391745
+MT01053,2026-08-05,Neiva–Bogotá,Carga seca,Pitalito,380,0,1849330
+MT01054,2026-06-20,Neiva–Cartagena,Café,Neiva,710,0,4806793
+MT01055,2025-07-21,Neiva–Cali,Paquetería,Pitalito,310,0,1612152
+MT01056,2026-03-31,Pitalito–Neiva,Café,Pitalito,130,149,733918
+MT01057,2026-08-13,Neiva–Medellín,Carga seca,Neiva,460,0,2037415
+MT01058,2025-12-17,Neiva–Cali,Carga seca,Neiva,310,0,1612092
+MT01059,2025-10-02,Neiva–Cali,Carga seca,Neiva,310,102,1803086
+MT01060,2025-03-14,Pitalito–Neiva,Café,Neiva,130,166,768407
+MT01061,2025-07-19,Neiva–Cali,Carga seca,Pitalito,310,111,1998541
+MT01062,2026-09-04,Neiva–Medellín,Café,Neiva,460,0,2366550
+MT01063,2025-12-04,Neiva–Cali,Café,Neiva,310,0,1535624
+MT01064,2026-10-30,Neiva–Bogotá,Café,Neiva,380,0,2302421
+MT01065,2025-03-17,Neiva–Cartagena,Café,Pitalito,710,36,3784913
+MT01066,2025-09-17,Neiva–Medellín,Paquetería,Neiva,460,0,2974520
+MT01067,2025-06-07,Pitalito–Neiva,Paquetería,Neiva,130,0,589349
+MT01068,2025-06-25,Neiva–Cali,Café,Neiva,310,0,1727771
+MT01069,2026-05-04,Neiva–Bogotá,Paquetería,Neiva,380,0,1745083
+MT01070,2025-04-30,Neiva–Medellín,Café,Neiva,460,177,2625671
+MT01071,2026-04-08,Pitalito–Neiva,Café,Neiva,130,108,745706
+MT01072,2026-02-15,Neiva–Cartagena,Carga seca,Neiva,710,0,3895069
+MT01073,2025-08-10,Neiva–Cali,Carga seca,Pitalito,310,0,1892750
+MT01074,2026-02-06,Pitalito–Neiva,Carga seca,Pitalito,130,0,677078
+MT01075,2025-01-05,Neiva–Medellín,Carga seca,Neiva,460,186,2808428
+MT01076,2025-12-17,Neiva–Cali,Carga seca,Neiva,310,0,1720774
+MT01077,2025-02-07,Neiva–Bogotá,Café,Neiva,380,0,2388289
+MT01078,2025-07-09,Neiva–Cali,Café,Neiva,310,0,1521977
+MT01079,2026-07-15,Pitalito–Neiva,Carga seca,Neiva,130,0,728802
+MT01080,2025-01-07,Neiva–Bogotá,Café,Neiva,380,0,2075007
+MT01081,2025-08-09,Neiva–Medellín,Carga seca,Pitalito,460,204,2251649
+MT01082,2026-03-25,Neiva–Cartagena,Carga seca,Pitalito,710,44,3940159
+MT01083,2025-02-01,Neiva–Medellín,Café,Neiva,460,101,3225432
+MT01084,2026-03-28,Neiva–Bogotá,Café,Neiva,380,153,2657985
+MT01085,2026-05-25,Neiva–Cartagena,Paquetería,Neiva,710,129,3197721
+MT01086,2026-08-16,Pitalito–Neiva,Carga seca,Pitalito,130,68,802259
+MT01087,2026-04-11,Neiva–Cali,Café,Neiva,310,90,1817332
+MT01088,2025-05-12,Neiva–Bogotá,Carga seca,Garzón,380,0,2424273
+MT01089,2025-02-24,Pitalito–Neiva,Carga seca,Neiva,130,0,797149
+MT01090,2026-07-28,Pitalito–Neiva,Café,Neiva,130,0,664952
+MT01091,2026-03-05,Neiva–Cartagena,Café,Neiva,710,0,4301004
+MT01092,2025-01-09,Neiva–Medellín,Café,Neiva,460,0,2631967
+MT01093,2025-09-12,Neiva–Bogotá,Café,Neiva,380,0,2259221
+MT01094,2025-08-12,Neiva–Cali,Café,Neiva,310,0,1626151
+MT01095,2026-02-10,Neiva–Cartagena,Café,Neiva,710,0,4783205
+MT01096,2025-04-03,Neiva–Cartagena,Carga seca,Neiva,710,0,3531783
+MT01097,2025-06-03,Neiva–Medellín,Paquetería,Neiva,460,0,2718217
+MT01098,2026-09-25,Neiva–Cali,Paquetería,Garzón,310,0,1476159
+MT01099,2026-03-02,Neiva–Cali,Carga seca,Pitalito,310,0,1777132
+MT01100,2025-09-14,Neiva–Bogotá,Carga seca,Pitalito,380,0,2113075
+MT01101,2025-04-13,Neiva–Medellín,Carga seca,Pitalito,460,0,2467074
+MT01102,2026-07-05,Neiva–Cartagena,Carga seca,Neiva,710,0,3978889
+MT01103,2025-08-28,Pitalito–Neiva,Paquetería,Neiva,130,126,602546
+MT01104,2026-06-13,Neiva–Medellín,Café,Neiva,460,218,2226901
+MT01105,2026-05-02,Neiva–Cartagena,Carga seca,Neiva,710,0,3739973
+MT01106,2026-08-03,Neiva–Medellín,Carga seca,Neiva,460,228,2096131
+MT01107,2026-08-18,Neiva–Cartagena,Paquetería,Neiva,710,71,3953341
+MT01108,2025-03-24,Neiva–Bogotá,Café,Neiva,380,0,2731774
+MT01109,2025-01-22,Neiva–Medellín,Café,Neiva,460,0,2245973
+MT01110,2025-05-25,Neiva–Bogotá,Paquetería,Neiva,380,0,2200762
+MT01111,2026-05-07,Neiva–Cali,Carga seca,Neiva,310,0,1892865
+MT01112,2025-12-28,Neiva–Bogotá,Paquetería,Neiva,380,0,2145291
+MT01113,2026-08-02,Neiva–Cali,Paquetería,Neiva,310,0,1729601
+MT01114,2025-08-05,Neiva–Medellín,Carga seca,Neiva,460,0,2323307
+MT01115,2026-05-01,Neiva–Bogotá,Carga seca,Neiva,380,0,1815268
+MT01116,2026-05-30,Pitalito–Neiva,Café,Neiva,130,0,784231
+MT01117,2025-04-04,Neiva–Bogotá,Café,Pitalito,380,0,1992392
+MT01118,2025-06-10,Pitalito–Neiva,Café,Neiva,130,0,876917
+MT01119,2026-05-10,Neiva–Cali,Carga seca,Pitalito,310,0,1829123
+MT01120,2026-04-03,Pitalito–Neiva,Paquetería,Garzón,130,0,687141
+MT01121,2025-04-27,Neiva–Cartagena,Carga seca,Garzón,710,0,3838023
+MT01122,2026-05-04,Neiva–Medellín,Paquetería,Neiva,460,0,2659086
+MT01123,2026-09-20,Neiva–Cali,Carga seca,Neiva,310,0,1639163
+MT01124,2025-02-01,Neiva–Cartagena,Café,Neiva,710,0,4495491
+MT01125,2025-05-17,Neiva–Cali,Café,Neiva,310,0,2185747
+MT01126,2025-12-14,Neiva–Cali,Carga seca,Garzón,310,0,1565358
+MT01127,2025-07-13,Pitalito–Neiva,Carga seca,Pitalito,130,0,793413
+MT01128,2026-02-10,Neiva–Cali,Café,Garzón,310,0,1957541
+MT01129,2025-03-21,Neiva–Bogotá,Café,Neiva,380,0,2725910
+MT01130,2026-06-11,Neiva–Bogotá,Carga seca,Neiva,380,0,1835874
+MT01131,2026-10-12,Neiva–Cali,Café,Neiva,310,0,2228907
+MT01132,2025-03-10,Neiva–Cali,Café,Neiva,310,0,2022035
+MT01133,2025-07-13,Pitalito–Neiva,Carga seca,Neiva,130,0,650665
+MT01134,2025-05-19,Neiva–Cali,Paquetería,Neiva,310,0,1367484
+MT01135,2025-10-24,Neiva–Cali,Paquetería,Neiva,310,0,1463624
+MT01136,2025-03-15,Neiva–Bogotá,Carga seca,Neiva,380,0,2258986
+MT01137,2025-06-03,Neiva–Bogotá,Café,Neiva,380,0,2759635
+MT01138,2026-03-14,Neiva–Bogotá,Café,Neiva,380,0,2016568
+MT01139,2025-02-02,Neiva–Bogotá,Carga seca,Pitalito,380,0,2007281
+MT01140,2026-05-13,Neiva–Cartagena,Café,Neiva,710,0,4148161
+MT01141,2025-10-05,Neiva–Bogotá,Carga seca,Neiva,380,38,1871434
+MT01142,2025-05-21,Neiva–Bogotá,Carga seca,Neiva,380,0,2333313
+MT01143,2025-03-17,Neiva–Bogotá,Carga seca,Neiva,380,0,1832570
+MT01144,2026-06-14,Neiva–Bogotá,Carga seca,Neiva,380,119,1986856
+MT01145,2026-01-13,Pitalito–Neiva,Café,Neiva,130,0,755467
+MT01146,2025-08-09,Neiva–Cali,Carga seca,Garzón,310,0,1639111
+MT01147,2025-06-27,Pitalito–Neiva,Carga seca,Garzón,130,166,693684
+MT01148,2026-02-03,Neiva–Bogotá,Paquetería,Pitalito,380,0,1804597
+MT01149,2026-06-21,Neiva–Bogotá,Paquetería,Neiva,380,0,1814247
+MT01150,2025-05-27,Neiva–Medellín,Carga seca,Neiva,460,0,2240677
+MT01151,2025-12-28,Neiva–Medellín,Carga seca,Neiva,460,0,2355996
+MT01152,2025-09-07,Pitalito–Neiva,Carga seca,Neiva,130,0,732708
+MT01153,2025-10-06,Neiva–Cartagena,Paquetería,Neiva,710,181,4187843
+MT01154,2025-06-05,Neiva–Cali,Café,Neiva,310,0,1937583
+MT01155,2025-01-19,Neiva–Cartagena,Paquetería,Garzón,710,0,4481636
+MT01156,2026-03-01,Neiva–Bogotá,Café,Neiva,380,237,1877260
+MT01157,2026-08-20,Neiva–Medellín,Carga seca,Pitalito,460,0,2659042
+MT01158,2026-02-02,Neiva–Cali,Paquetería,Neiva,310,0,1937059
+MT01159,2025-05-08,Neiva–Medellín,Café,Neiva,460,0,2762745
+MT01160,2025-09-30,Neiva–Cali,Carga seca,Neiva,310,0,1653286
+MT01161,2025-02-21,Neiva–Bogotá,Carga seca,Neiva,380,0,2394709
+MT01162,2026-10-31,Neiva–Medellín,Café,Pitalito,460,0,3091015
+MT01163,2025-10-28,Neiva–Bogotá,Carga seca,Neiva,380,0,1664655
+MT01164,2026-04-10,Neiva–Cali,Café,Pitalito,310,122,1885990
+MT01165,2025-01-23,Neiva–Bogotá,Carga seca,Neiva,380,0,2404872
+MT01166,2026-04-21,Neiva–Cali,Carga seca,Neiva,310,0,1863292
+MT01167,2026-10-03,Neiva–Medellín,Café,Neiva,460,0,2932383
+MT01168,2025-07-19,Neiva–Cartagena,Carga seca,Neiva,710,0,3552625
+MT01169,2025-02-22,Neiva–Cartagena,Café,Neiva,710,235,4716738
+MT01170,2026-07-18,Pitalito–Neiva,Carga seca,Pitalito,130,123,702809
+MT01171,2025-01-18,Neiva–Medellín,Paquetería,Neiva,460,139,2367421
+MT01172,2025-06-17,Pitalito–Neiva,Café,Garzón,130,0,721793
+MT01173,2026-04-25,Neiva–Medellín,Café,Neiva,460,50,3146070
+MT01174,2026-08-13,Pitalito–Neiva,Carga seca,Neiva,130,0,798457
+MT01175,2026-09-25,Pitalito–Neiva,Carga seca,Garzón,130,0,765655
+MT01176,2026-09-14,Pitalito–Neiva,Carga seca,Garzón,130,0,808953
+MT01177,2025-04-22,Neiva–Medellín,Café,Neiva,460,129,3258129
+MT01178,2026-03-08,Neiva–Cali,Carga seca,Neiva,310,0,2003527
+MT01179,2026-10-06,Neiva–Cali,Carga seca,Neiva,310,0,1791502
+MT01180,2025-11-02,Neiva–Bogotá,Café,Neiva,380,212,2492556
+MT01181,2025-03-21,Neiva–Cali,Carga seca,Neiva,310,0,1771155
+MT01182,2025-05-07,Neiva–Cali,Café,Pitalito,310,0,1720752
+MT01183,2025-07-02,Neiva–Medellín,Carga seca,Neiva,460,39,2878921
+MT01184,2025-09-01,Neiva–Cali,Café,Neiva,310,0,2227552
+MT01185,2026-06-19,Neiva–Bogotá,Café,Neiva,380,0,2022375
+MT01186,2026-09-02,Neiva–Bogotá,Carga seca,Neiva,380,0,2366371
+MT01187,2026-05-01,Neiva–Cartagena,Carga seca,Neiva,710,0,3384249
+MT01188,2025-10-04,Pitalito–Neiva,Carga seca,Pitalito,130,0,628922
+MT01189,2026-03-10,Pitalito–Neiva,Café,Neiva,130,0,940685
+MT01190,2025-07-21,Neiva–Cali,Café,Neiva,310,0,1719092
+MT01191,2025-08-07,Neiva–Bogotá,Carga seca,Pitalito,380,0,1661810
+MT01192,2025-12-19,Neiva–Cartagena,Café,Pitalito,710,0,4767621
+MT01193,2026-06-14,Neiva–Bogotá,Café,Garzón,380,0,2182045
+MT01194,2025-07-13,Neiva–Cartagena,Paquetería,Neiva,710,0,4534787
+MT01195,2026-01-24,Neiva–Medellín,Carga seca,Neiva,460,82,2859261
+MT01196,2025-10-18,Neiva–Bogotá,Café,Neiva,380,0,2530041
+MT01197,2026-10-31,Pitalito–Neiva,Café,Neiva,130,0,654054
+MT01198,2025-05-15,Neiva–Medellín,Carga seca,Neiva,460,0,2428391
+MT01199,2025-06-17,Pitalito–Neiva,Café,Neiva,130,0,882625
+MT01200,2026-07-15,Pitalito–Neiva,Paquetería,Pitalito,130,0,590130
+MT01201,2025-02-03,Neiva–Cali,Paquetería,Pitalito,310,0,1778437
+MT01202,2025-05-14,Neiva–Cali,Carga seca,Neiva,310,123,1859900
+MT01203,2026-09-04,Neiva–Cartagena,Carga seca,Pitalito,710,0,3588101
+MT01204,2025-10-28,Neiva–Cartagena,Carga seca,Neiva,710,0,3862194
+MT01205,2025-05-07,Neiva–Cali,Carga seca,Neiva,310,0,1373183
+MT01206,2026-11-01,Neiva–Bogotá,Café,Neiva,380,0,2454298
+MT01207,2026-09-10,Neiva–Medellín,Carga seca,Neiva,460,0,2646748
+MT01208,2025-11-05,Neiva–Bogotá,Café,Garzón,380,225,1904266
+MT01209,2026-02-14,Neiva–Cartagena,Café,Neiva,710,0,4193154
+MT01210,2025-05-21,Neiva–Medellín,Carga seca,Neiva,460,0,2294051
+MT01211,2025-09-07,Neiva–Medellín,Café,Neiva,460,0,2393389
+MT01212,2025-01-04,Neiva–Cartagena,Café,Neiva,710,0,4453127
+MT01213,2026-10-30,Pitalito–Neiva,Carga seca,Neiva,130,165,594687
+MT01214,2025-09-24,Pitalito–Neiva,Carga seca,Neiva,130,0,604419
+MT01215,2025-11-29,Neiva–Cali,Café,Neiva,310,0,2172775
+MT01216,2025-10-24,Pitalito–Neiva,Carga seca,Pitalito,130,0,715418
+MT01217,2025-10-02,Pitalito–Neiva,Café,Neiva,130,141,857446
+MT01218,2025-09-26,Neiva–Bogotá,Paquetería,Neiva,380,0,2121466
+MT01219,2025-06-27,Neiva–Cali,Café,Neiva,310,0,1547778
+MT01220,2026-09-10,Neiva–Cali,Carga seca,Garzón,310,0,1651051
+MT01221,2026-10-15,Pitalito–Neiva,Café,Pitalito,130,158,885931
+MT01222,2026-04-07,Pitalito–Neiva,Paquetería,Neiva,130,0,757454
+MT01223,2025-08-06,Neiva–Bogotá,Paquetería,Neiva,380,0,2262548
+MT01224,2026-05-13,Neiva–Cali,Carga seca,Neiva,310,113,1805254
+MT01225,2026-01-10,Neiva–Bogotá,Carga seca,Neiva,380,0,2045571
+MT01226,2025-02-01,Neiva–Medellín,Café,Neiva,460,66,2422802
+MT01227,2026-09-10,Pitalito–Neiva,Carga seca,Neiva,130,58,738888
+MT01228,2026-07-24,Neiva–Cartagena,Carga seca,Neiva,710,0,3824501
+MT01229,2026-01-17,Pitalito–Neiva,Carga seca,Neiva,130,0,798761
+MT01230,2026-03-09,Neiva–Cartagena,Carga seca,Neiva,710,231,3914991
+MT01231,2025-01-31,Neiva–Bogotá,Paquetería,Neiva,380,0,2278942
+MT01232,2026-05-16,Neiva–Bogotá,Café,Neiva,380,0,2347003
+MT01233,2025-04-14,Pitalito–Neiva,Café,Pitalito,130,0,772108
+MT01234,2025-02-01,Neiva–Medellín,Café,Pitalito,460,0,2883368
+MT01235,2026-06-03,Neiva–Bogotá,Paquetería,Neiva,380,0,1992806
+MT01236,2025-01-27,Neiva–Bogotá,Café,Neiva,380,0,2323363
+MT01237,2025-08-26,Pitalito–Neiva,Café,Neiva,130,0,760258
+MT01238,2025-12-01,Neiva–Cali,Carga seca,Pitalito,310,0,1721366
+MT01239,2025-08-16,Neiva–Medellín,Carga seca,Pitalito,460,0,2647181
+MT01240,2025-07-27,Pitalito–Neiva,Carga seca,Neiva,130,150,844227
+MT01241,2026-06-06,Neiva–Cartagena,Café,Garzón,710,58,3679799
+MT01242,2025-01-22,Neiva–Cartagena,Café,Neiva,710,0,3681797
+MT01243,2026-09-21,Neiva–Bogotá,Café,Neiva,380,0,2318654
+MT01244,2025-12-19,Pitalito–Neiva,Paquetería,Pitalito,130,0,643063
+MT01245,2025-03-10,Neiva–Bogotá,Carga seca,Garzón,380,0,2215868
+MT01246,2026-02-28,Pitalito–Neiva,Carga seca,Neiva,130,0,619653
+MT01247,2026-04-17,Pitalito–Neiva,Café,Neiva,130,0,725624
+MT01248,2026-10-16,Pitalito–Neiva,Café,Garzón,130,0,846866
+MT01249,2026-08-03,Neiva–Cali,Café,Pitalito,310,0,1886221
+MT01250,2025-11-04,Neiva–Bogotá,Carga seca,Neiva,380,0,2260530
+MT01251,2026-04-30,Neiva–Bogotá,Carga seca,Neiva,380,0,2022062
+MT01252,2025-01-14,Pitalito–Neiva,Café,Neiva,130,0,935764
+MT01253,2025-08-29,Neiva–Cartagena,Café,Pitalito,710,137,4588844
+MT01254,2026-02-23,Neiva–Bogotá,Carga seca,Neiva,380,0,1670595
+MT01255,2026-02-09,Pitalito–Neiva,Café,Garzón,130,0,814901
+MT01256,2026-02-04,Neiva–Cali,Café,Garzón,310,0,1735348
+MT01257,2026-10-22,Pitalito–Neiva,Café,Neiva,130,0,822288
+MT01258,2026-04-27,Neiva–Medellín,Carga seca,Neiva,460,0,2125180
+MT01259,2025-06-12,Neiva–Medellín,Carga seca,Neiva,460,0,2570628
+MT01260,2026-02-06,Neiva–Bogotá,Café,Neiva,380,0,2136935
+MT01261,2026-07-09,Neiva–Medellín,Café,Neiva,460,146,2781905
+MT01262,2025-04-23,Neiva–Cali,Paquetería,Garzón,310,0,1340702
+MT01263,2026-03-19,Neiva–Cartagena,Carga seca,Neiva,710,0,4610268
+MT01264,2025-04-16,Neiva–Cali,Café,Neiva,310,0,2062688
+MT01265,2026-01-21,Neiva–Cartagena,Paquetería,Neiva,710,0,4488067
+MT01266,2026-10-22,Pitalito–Neiva,Café,Neiva,130,0,748449
+MT01267,2025-08-16,Pitalito–Neiva,Café,Pitalito,130,0,873131
+MT01268,2025-10-23,Pitalito–Neiva,Café,Neiva,130,0,738018
+MT01269,2025-08-28,Neiva–Bogotá,Paquetería,Neiva,380,0,1726997
+MT01270,2025-06-12,Neiva–Medellín,Paquetería,Neiva,460,0,2739982
+MT01271,2025-12-07,Neiva–Bogotá,Carga seca,Neiva,380,0,1695608
+MT01272,2025-05-27,Neiva–Medellín,Carga seca,Neiva,460,191,2276557
+MT01273,2025-01-27,Neiva–Cali,Carga seca,Neiva,310,0,1451302
+MT01274,2025-06-23,Neiva–Cartagena,Café,Neiva,710,0,4659821
+MT01275,2025-11-16,Neiva–Medellín,Café,Pitalito,460,0,2612863
+MT01276,2025-07-01,Neiva–Cali,Paquetería,Neiva,310,0,1445431
+MT01277,2026-10-20,Neiva–Bogotá,Carga seca,Pitalito,380,0,1758325
+MT01278,2026-01-24,Neiva–Bogotá,Café,Neiva,380,124,2510949
+MT01279,2025-08-28,Neiva–Bogotá,Café,Garzón,380,0,1911441
+MT01280,2026-01-29,Neiva–Bogotá,Café,Neiva,380,0,2109979
+MT01281,2026-06-25,Neiva–Cartagena,Café,Neiva,710,31,4458748
+MT01282,2026-04-26,Neiva–Medellín,Paquetería,Neiva,460,190,2866988
+MT01283,2026-06-19,Neiva–Medellín,Carga seca,Neiva,460,0,2262077
+MT01284,2025-03-10,Neiva–Cartagena,Paquetería,Garzón,710,0,4228686
+MT01285,2026-06-03,Neiva–Bogotá,Café,Neiva,380,0,2692417
+MT01286,2025-07-14,Neiva–Cali,Carga seca,Pitalito,310,0,1676970
+MT01287,2026-07-20,Neiva–Medellín,Carga seca,Neiva,460,92,2521431
+MT01288,2025-10-13,Neiva–Cartagena,Café,Pitalito,710,0,3869565
+MT01289,2025-02-18,Neiva–Medellín,Carga seca,Neiva,460,96,2477548
+MT01290,2025-03-21,Neiva–Cali,Carga seca,Neiva,310,0,1369768
+MT01291,2026-03-03,Pitalito–Neiva,Café,Neiva,130,0,678391
+MT01292,2026-02-10,Neiva–Cartagena,Carga seca,Neiva,710,148,4426019
+MT01293,2026-07-06,Neiva–Medellín,Carga seca,Neiva,460,112,2492814
+MT01294,2025-01-28,Neiva–Bogotá,Carga seca,Pitalito,380,0,1966058
+MT01295,2025-11-09,Neiva–Medellín,Café,Pitalito,460,204,2536915
+MT01296,2025-01-08,Neiva–Medellín,Café,Neiva,460,0,3097996
+MT01297,2025-10-24,Neiva–Cartagena,Carga seca,Garzón,710,153,4420816
+MT01298,2025-02-13,Neiva–Bogotá,Carga seca,Neiva,380,0,1860030
+MT01299,2026-09-27,Neiva–Cali,Paquetería,Neiva,310,0,1709317
+MT01300,2025-02-07,Neiva–Medellín,Paquetería,Neiva,460,0,2574763
+MT01301,2025-04-09,Neiva–Medellín,Carga seca,Neiva,460,0,2058871
+MT01302,2025-08-22,Neiva–Bogotá,Carga seca,Pitalito,380,0,2273929
+MT01303,2026-10-07,Neiva–Cartagena,Carga seca,Neiva,710,0,3111990
+MT01304,2025-08-06,Neiva–Bogotá,Carga seca,Pitalito,380,0,1670378
+MT01305,2025-07-03,Neiva–Medellín,Café,Neiva,460,35,2398120
+MT01306,2026-09-13,Neiva–Medellín,Café,Neiva,460,0,3073342
+MT01307,2025-07-20,Neiva–Bogotá,Carga seca,Neiva,380,0,2405959
+MT01308,2025-04-27,Neiva–Medellín,Café,Neiva,460,0,3187530
+MT01309,2025-01-16,Neiva–Bogotá,Carga seca,Pitalito,380,0,1715191
+MT01310,2025-09-16,Neiva–Bogotá,Carga seca,Neiva,380,0,1638928
+MT01311,2025-03-10,Neiva–Cali,Café,Neiva,310,0,1883029
+MT01312,2025-05-07,Neiva–Bogotá,Paquetería,Neiva,380,204,1794093
+MT01313,2026-05-03,Pitalito–Neiva,Paquetería,Garzón,130,0,676828
+MT01314,2026-06-02,Neiva–Cali,Paquetería,Pitalito,310,0,1744487
+MT01315,2026-05-14,Neiva–Bogotá,Carga seca,Neiva,380,0,2109545
+MT01316,2025-01-21,Neiva–Cali,Carga seca,Pitalito,310,0,1669072
+MT01317,2025-08-09,Neiva–Bogotá,Paquetería,Neiva,380,0,2109831
+MT01318,2025-01-05,Pitalito–Neiva,Paquetería,Neiva,130,208,821376
+MT01319,2026-02-17,Neiva–Cali,Café,Garzón,310,141,2046339
+MT01320,2025-11-18,Pitalito–Neiva,Café,Garzón,130,0,934619
+MT01321,2025-06-06,Neiva–Cartagena,Carga seca,Neiva,710,0,3608043
+MT01322,2025-12-03,Neiva–Cartagena,Paquetería,Neiva,710,227,3658644
+MT01323,2026-09-20,Neiva–Cali,Carga seca,Neiva,310,0,1567750
+MT01324,2026-07-27,Pitalito–Neiva,Café,Neiva,130,0,854198
+MT01325,2025-06-12,Neiva–Cali,Carga seca,Neiva,310,0,1636633
+MT01326,2026-06-11,Neiva–Cali,Carga seca,Neiva,310,0,1559820
+MT01327,2026-07-16,Neiva–Bogotá,Paquetería,Pitalito,380,158,1789293
+MT01328,2025-05-24,Neiva–Cartagena,Paquetería,Pitalito,710,0,3324105
+MT01329,2025-07-19,Neiva–Medellín,Café,Neiva,460,0,2600263
+MT01330,2025-02-16,Neiva–Bogotá,Café,Neiva,380,0,2349544
+MT01331,2026-10-18,Neiva–Bogotá,Carga seca,Neiva,380,0,1961634
+MT01332,2025-07-21,Neiva–Medellín,Carga seca,Neiva,460,0,2304295
+MT01333,2025-01-05,Neiva–Bogotá,Carga seca,Neiva,380,0,1908664
+MT01334,2025-07-04,Neiva–Medellín,Carga seca,Pitalito,460,0,2921181
+MT01335,2026-07-03,Neiva–Cali,Café,Pitalito,310,123,2135057
+MT01336,2026-10-20,Neiva–Bogotá,Carga seca,Pitalito,380,0,2417100
+MT01337,2025-04-11,Pitalito–Neiva,Café,Neiva,130,0,883128
+MT01338,2025-09-18,Neiva–Bogotá,Paquetería,Neiva,380,0,2302623
+MT01339,2025-10-19,Neiva–Cali,Café,Garzón,310,0,1601187
+MT01340,2025-07-20,Neiva–Cali,Carga seca,Garzón,310,0,1749281
+MT01341,2025-03-27,Neiva–Bogotá,Paquetería,Neiva,380,0,2177475
+MT01342,2025-04-21,Neiva–Cali,Carga seca,Neiva,310,0,1419271
+MT01343,2026-07-25,Pitalito–Neiva,Carga seca,Neiva,130,0,617435
+MT01344,2026-04-04,Neiva–Bogotá,Carga seca,Pitalito,380,0,2253049
+MT01345,2026-02-28,Pitalito–Neiva,Café,Neiva,130,0,714086
+MT01346,2026-09-25,Neiva–Bogotá,Carga seca,Neiva,380,0,2429683
+MT01347,2026-06-12,Neiva–Medellín,Carga seca,Neiva,460,0,2203242
+MT01348,2026-04-25,Neiva–Cartagena,Carga seca,Neiva,710,0,3162401
+MT01349,2026-08-12,Neiva–Cali,Paquetería,Pitalito,310,0,1471499
+MT01350,2026-04-10,Neiva–Bogotá,Café,Neiva,380,0,2071356
+MT01351,2026-08-23,Neiva–Bogotá,Paquetería,Garzón,380,0,1666170
+MT01352,2025-05-13,Neiva–Cali,Carga seca,Garzón,310,0,1910708
+MT01353,2025-04-05,Neiva–Bogotá,Paquetería,Garzón,380,0,1787043
+MT01354,2026-01-13,Neiva–Cali,Café,Neiva,310,0,1611486
+MT01355,2025-07-04,Neiva–Bogotá,Café,Neiva,380,0,2332535
+MT01356,2025-01-01,Pitalito–Neiva,Carga seca,Neiva,130,0,793035
+MT01357,2025-11-14,Neiva–Cartagena,Paquetería,Neiva,710,0,3744575
+MT01358,2026-04-10,Neiva–Cali,Carga seca,Pitalito,310,0,1829675
+MT01359,2026-03-01,Pitalito–Neiva,Carga seca,Neiva,130,0,746607
+MT01360,2026-05-16,Neiva–Cartagena,Carga seca,Neiva,710,132,4555795
+MT01361,2025-07-15,Neiva–Cali,Carga seca,Garzón,310,0,1970739
+MT01362,2025-06-01,Neiva–Cali,Paquetería,Pitalito,310,0,1750151
+MT01363,2026-08-12,Neiva–Bogotá,Carga seca,Neiva,380,0,2019158
+MT01364,2025-10-29,Neiva–Cali,Café,Garzón,310,0,1529394
+MT01365,2025-12-12,Pitalito–Neiva,Carga seca,Neiva,130,82,675758
+MT01366,2025-03-24,Neiva–Bogotá,Café,Neiva,380,0,2125510
+MT01367,2025-04-09,Neiva–Cali,Café,Neiva,310,0,2074141
+MT01368,2026-02-15,Neiva–Bogotá,Carga seca,Pitalito,380,0,1995936
+MT01369,2026-06-03,Pitalito–Neiva,Paquetería,Neiva,130,0,579360
+MT01370,2026-08-22,Neiva–Medellín,Café,Neiva,460,76,2369520
+MT01371,2025-10-31,Neiva–Bogotá,Carga seca,Neiva,380,0,1870535
+MT01372,2026-04-28,Neiva–Cartagena,Carga seca,Pitalito,710,153,3365343
+MT01373,2026-03-03,Pitalito–Neiva,Café,Neiva,130,0,825877
+MT01374,2025-05-21,Neiva–Cali,Carga seca,Pitalito,310,0,1601252
+MT01375,2025-10-21,Neiva–Medellín,Carga seca,Garzón,460,95,2279554
+MT01376,2026-04-04,Neiva–Medellín,Carga seca,Neiva,460,0,2806510
+MT01377,2025-10-18,Neiva–Bogotá,Carga seca,Neiva,380,0,1849343
+MT01378,2026-07-01,Neiva–Cali,Café,Neiva,310,0,1771674
+MT01379,2026-09-03,Neiva–Cali,Carga seca,Neiva,310,0,1452992
+MT01380,2026-08-01,Neiva–Medellín,Café,Neiva,460,79,2743241
+MT01381,2026-05-22,Neiva–Bogotá,Paquetería,Pitalito,380,0,2078349
+MT01382,2025-06-03,Neiva–Bogotá,Carga seca,Neiva,380,0,1810681
+MT01383,2025-07-14,Neiva–Bogotá,Café,Neiva,380,0,2186904
+MT01384,2026-07-31,Neiva–Cartagena,Carga seca,Neiva,710,0,3363154
+MT01385,2025-09-13,Neiva–Bogotá,Carga seca,Neiva,380,0,1756691
+MT01386,2026-01-21,Neiva–Cali,Carga seca,Pitalito,310,0,1920004
+MT01387,2026-06-21,Neiva–Cartagena,Café,Neiva,710,34,4831722
+MT01388,2026-01-15,Pitalito–Neiva,Café,Neiva,130,0,832901
+MT01389,2025-01-30,Neiva–Cartagena,Paquetería,Neiva,710,204,4225193
+MT01390,2026-09-11,Neiva–Medellín,Café,Neiva,460,195,2536982
+MT01391,2025-07-17,Neiva–Medellín,Café,Neiva,460,0,2591566
+MT01392,2026-08-30,Pitalito–Neiva,Café,Pitalito,130,0,838115
+MT01393,2025-06-18,Neiva–Cali,Carga seca,Neiva,310,0,1786131
+MT01394,2025-05-15,Neiva–Cali,Paquetería,Neiva,310,0,1612670
+MT01395,2025-01-05,Neiva–Medellín,Café,Neiva,460,0,2321204
+MT01396,2026-06-23,Neiva–Cali,Paquetería,Neiva,310,0,1597373
+MT01397,2026-08-19,Neiva–Bogotá,Café,Neiva,380,0,2555280
+MT01398,2026-03-02,Pitalito–Neiva,Carga seca,Neiva,130,0,787513
+MT01399,2025-08-31,Neiva–Cali,Carga seca,Neiva,310,0,1400551
+MT01400,2025-11-23,Neiva–Bogotá,Carga seca,Neiva,380,0,1743265
+MT01401,2026-06-14,Neiva–Medellín,Carga seca,Neiva,460,0,2788074
+MT01402,2025-09-02,Neiva–Cali,Carga seca,Neiva,310,144,1930984
+MT01403,2025-12-30,Neiva–Bogotá,Paquetería,Neiva,380,0,2121535
+MT01404,2025-05-24,Neiva–Medellín,Paquetería,Garzón,460,0,2466061
+MT01405,2026-06-19,Pitalito–Neiva,Paquetería,Neiva,130,0,561827
+MT01406,2025-07-30,Neiva–Cali,Carga seca,Garzón,310,0,1386185
+MT01407,2026-10-20,Neiva–Cali,Carga seca,Pitalito,310,0,1367479
+MT01408,2026-01-22,Neiva–Medellín,Café,Pitalito,460,0,3033319
+MT01409,2025-05-29,Neiva–Cali,Café,Neiva,310,0,1950408
+MT01410,2025-05-01,Pitalito–Neiva,Carga seca,Neiva,130,114,750423
+MT01411,2025-12-04,Neiva–Cali,Café,Neiva,310,26,2190501
+MT01412,2025-02-02,Neiva–Bogotá,Café,Pitalito,380,0,2584671
+MT01413,2026-01-23,Neiva–Cartagena,Paquetería,Pitalito,710,0,3137880
+MT01414,2026-03-09,Pitalito–Neiva,Café,Neiva,130,0,876641
+MT01415,2026-07-11,Pitalito–Neiva,Carga seca,Pitalito,130,133,586099
+MT01416,2025-05-26,Pitalito–Neiva,Café,Pitalito,130,170,873308
+MT01417,2025-02-13,Neiva–Bogotá,Paquetería,Garzón,380,0,1911991
+MT01418,2025-03-11,Neiva–Medellín,Paquetería,Neiva,460,0,2287435
+MT01419,2026-10-24,Pitalito–Neiva,Carga seca,Neiva,130,0,564778
+MT01420,2025-08-25,Neiva–Medellín,Carga seca,Neiva,460,0,2545035
+MT01421,2025-12-05,Neiva–Bogotá,Carga seca,Neiva,380,0,1780027
+MT01422,2026-04-06,Neiva–Medellín,Café,Neiva,460,175,3294858
+MT01423,2025-10-28,Neiva–Cali,Café,Neiva,310,0,2019967
+MT01424,2026-02-12,Neiva–Cali,Paquetería,Neiva,310,0,1462890
+MT01425,2026-06-11,Pitalito–Neiva,Carga seca,Neiva,130,0,719988
+MT01426,2025-05-03,Neiva–Bogotá,Carga seca,Neiva,380,0,1780898
+MT01427,2025-03-10,Pitalito–Neiva,Carga seca,Neiva,130,0,745318
+MT01428,2025-04-01,Neiva–Medellín,Café,Neiva,460,0,2984187
+MT01429,2025-04-03,Neiva–Cartagena,Café,Neiva,710,79,4618959
+MT01430,2025-01-15,Neiva–Cali,Café,Neiva,310,0,2015061
+MT01431,2026-06-10,Neiva–Bogotá,Café,Pitalito,380,0,2197315
+MT01432,2026-05-13,Neiva–Cartagena,Carga seca,Neiva,710,0,3456907
+MT01433,2026-05-16,Neiva–Bogotá,Carga seca,Garzón,380,0,2258328
+MT01434,2026-05-16,Neiva–Medellín,Paquetería,Pitalito,460,180,2777486
+MT01435,2026-05-27,Neiva–Cartagena,Café,Neiva,710,0,4639004
+MT01436,2026-04-06,Neiva–Medellín,Paquetería,Garzón,460,0,2305034
+MT01437,2026-10-14,Neiva–Cali,Carga seca,Neiva,310,159,1579628
+MT01438,2026-07-12,Pitalito–Neiva,Café,Pitalito,130,0,906460
+MT01439,2025-12-18,Pitalito–Neiva,Café,Neiva,130,0,933129
+MT01440,2025-09-22,Neiva–Bogotá,Café,Neiva,380,0,2110936
+MT01441,2026-08-07,Neiva–Medellín,Café,Neiva,460,0,3301583
+MT01442,2026-10-21,Neiva–Bogotá,Carga seca,Neiva,380,0,2148435
+MT01443,2025-08-04,Neiva–Medellín,Carga seca,Neiva,460,93,2533039
+MT01444,2026-04-22,Neiva–Medellín,Café,Neiva,460,0,3318923
+MT01445,2025-01-01,Neiva–Cartagena,Café,Pitalito,710,187,4382128
+MT01446,2025-05-03,Neiva–Cali,Carga seca,Garzón,310,0,1539907
+MT01447,2026-06-01,Neiva–Bogotá,Carga seca,Pitalito,380,0,2180251
+MT01448,2026-07-06,Neiva–Bogotá,Café,Neiva,380,0,2070235
+MT01449,2025-04-12,Pitalito–Neiva,Carga seca,Neiva,130,208,629459
+MT01450,2026-03-17,Neiva–Bogotá,Paquetería,Neiva,380,0,2176549
+MT01451,2025-09-25,Pitalito–Neiva,Paquetería,Neiva,130,0,639036
+MT01452,2025-09-10,Neiva–Cali,Paquetería,Garzón,310,0,1760927
+MT01453,2026-06-19,Neiva–Medellín,Café,Garzón,460,0,2536885
+MT01454,2025-11-09,Neiva–Cali,Café,Neiva,310,0,2079720
+MT01455,2026-10-23,Pitalito–Neiva,Carga seca,Neiva,130,83,779844
+MT01456,2026-01-05,Neiva–Cali,Café,Neiva,310,0,1681985
+MT01457,2026-01-17,Neiva–Cartagena,Carga seca,Neiva,710,234,3837815
+MT01458,2025-09-18,Pitalito–Neiva,Café,Pitalito,130,25,632478
+MT01459,2025-12-28,Neiva–Bogotá,Carga seca,Neiva,380,0,1973372
+MT01460,2026-03-13,Neiva–Bogotá,Carga seca,Neiva,380,0,1994558
+MT01461,2026-02-02,Neiva–Bogotá,Carga seca,Pitalito,380,0,2278227
+MT01462,2026-05-14,Neiva–Bogotá,Carga seca,Neiva,380,187,1945486
+MT01463,2026-03-27,Neiva–Medellín,Carga seca,Pitalito,460,0,2950894
+MT01464,2025-02-05,Neiva–Cartagena,Café,Neiva,710,0,4595850
+MT01465,2026-04-17,Neiva–Cali,Carga seca,Neiva,310,0,1337243
+MT01466,2026-07-26,Neiva–Medellín,Café,Neiva,460,61,2789022
+MT01467,2026-01-02,Neiva–Bogotá,Café,Neiva,380,0,2615684
+MT01468,2025-08-16,Neiva–Medellín,Carga seca,Neiva,460,0,2366215
+MT01469,2025-07-27,Neiva–Cali,Carga seca,Neiva,310,0,1875770
+MT01470,2026-02-03,Neiva–Medellín,Carga seca,Neiva,460,0,2566457
+MT01471,2025-09-08,Neiva–Bogotá,Café,Neiva,380,0,2189638
+MT01472,2026-01-09,Neiva–Cali,Paquetería,Pitalito,310,0,1856380
+MT01473,2026-06-18,Neiva–Bogotá,Café,Neiva,380,0,2341800
+MT01474,2025-05-24,Neiva–Cali,Café,Neiva,310,74,2126073
+MT01475,2025-05-27,Neiva–Cali,Café,Neiva,310,0,1852237
+MT01476,2026-01-10,Neiva–Cali,Café,Neiva,310,0,1644865
+MT01477,2025-11-13,Pitalito–Neiva,Paquetería,Neiva,130,57,675871
+MT01478,2025-11-11,Neiva–Medellín,Paquetería,Neiva,460,0,2984994
+MT01479,2026-03-31,Pitalito–Neiva,Carga seca,Neiva,130,0,830288
+MT01480,2025-01-02,Neiva–Bogotá,Carga seca,Neiva,380,127,1667338
+MT01481,2025-08-22,Neiva–Cartagena,Paquetería,Neiva,710,0,3250914
+MT01482,2026-07-29,Neiva–Bogotá,Café,Neiva,380,0,2567182
+MT01483,2026-03-28,Neiva–Bogotá,Carga seca,Neiva,380,0,2408384
+MT01484,2026-09-20,Neiva–Cali,Carga seca,Neiva,310,109,1822360
+MT01485,2025-08-30,Neiva–Bogotá,Café,Pitalito,380,0,2146389
+MT01486,2025-12-24,Neiva–Cali,Café,Pitalito,310,111,1888582
+MT01487,2025-10-02,Neiva–Bogotá,Café,Neiva,380,0,2557369
+MT01488,2026-10-09,Neiva–Medellín,Carga seca,Garzón,460,0,2798378
+MT01489,2025-05-11,Pitalito–Neiva,Carga seca,Pitalito,130,0,670542
+MT01490,2025-01-10,Neiva–Bogotá,Carga seca,Neiva,380,0,2065718
+MT01491,2026-06-08,Pitalito–Neiva,Carga seca,Neiva,130,0,678294
+MT01492,2025-04-15,Neiva–Cartagena,Café,Neiva,710,0,5002691
+MT01493,2025-07-07,Neiva–Cartagena,Carga seca,Neiva,710,0,3245855
+MT01494,2025-11-15,Neiva–Bogotá,Carga seca,Pitalito,380,0,1936898
+MT01495,2025-03-13,Pitalito–Neiva,Paquetería,Neiva,130,143,726363
+MT01496,2025-12-11,Neiva–Bogotá,Café,Neiva,380,40,2265306
+MT01497,2026-10-22,Neiva–Cartagena,Paquetería,Garzón,710,0,3786216
+MT01498,2025-02-01,Neiva–Cali,Carga seca,Neiva,310,86,1992393
+MT01499,2026-03-28,Neiva–Cali,Café,Neiva,310,224,2140226
+MT01500,2025-10-24,Neiva–Cartagena,Carga seca,Garzón,710,0,3353181
+MT00091,2025-12-10,Neiva–Cali,Carga seca,Pitalito,310,0,1367786
+MT00092,2026-03-16,Neiva–Medellín,Café,Garzón,460,0,2924623
+MT00093,2025-04-26,Neiva–Cali,Paquetería,Neiva,310,0,2010635
+MT00094,2026-04-18,Neiva–Cali,Café,Neiva,310,0,1735076
+MT00095,2025-04-16,Neiva–Medellín,Paquetería,Neiva,460,0,2192708
